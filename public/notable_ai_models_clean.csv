@@ -1,0 +1,868 @@
+System,Domain,Organization,Country,Publication date,Citations,Parameters,DatasetSize,Epochs,Training time (hours),Model accessibility
+Qwen2.5-72B,Language,Alibaba,China,19/9/24,,72700000000,18000000000000,1,,Open access (unrestricted)
+Table Tennis Agent,Robotics,Google DeepMind,Multinational,7/8/24,,185000,,,,Unreleased
+AFM-server,Language,Apple,United States of America,29/7/24,,,7400000000000,1,,Hosted access (no API)
+AFM-on-device,Language,Apple,United States of America,29/7/24,,2730000000,7590000000000,1,,Hosted access (no API)
+Mistral Large 2,Language,Mistral AI,France,24/7/24,,123000000000,,,,Open access (non-commercial)
+Llama 3.1-405B,Language,Meta AI,United States of America,23/7/24,,405000000000,15600000000000,1,2142,Open access (restricted use)
+ESM3 (98B),Biology,"EvolutionaryScale,UC Berkeley","United States of America,United States of America",25/6/24,,98500000000,771000000000,2.3,,Unreleased
+Claude 3.5 Sonnet,"Multimodal,Language,Vision",Anthropic,United States of America,20/6/24,,,,,,API access
+GLM-4 (0520),Language,Zhipu AI,China,18/6/24,,,10000000000000,,,API access
+DeepSeek-Coder-V2 236B,Language,DeepSeek,China,17/6/24,,236000000000,3190000000000,,,Open access (restricted use)
+Nemotron-4 340B,Language,NVIDIA,United States of America,14/6/24,,340000000000,6750000000000,,2200,Open access (unrestricted)
+OpenVLA,"Robotics,Vision,Language","Stanford University,UC Berkeley,Toyota Research Institute,Google DeepMind,Massachusetts Institute of Technology (MIT),Physical Intelligence","United States of America,United States of America,United States of America,Multinational,United States of America,United States of America",13/6/24,25,7188100000,970000,27,336,Open access (unrestricted)
+Qwen2-72B,Language,Alibaba,China,7/6/24,,72710000000,7000000000000,,,Open access (unrestricted)
+GPT-4o,"Multimodal,Language,Audio,Speech,Vision",OpenAI,United States of America,13/5/24,,,,,,API access
+Llama 3-70B,Language,Meta AI,United States of America,18/4/24,,70000000000,15000000000000,,,Open access (restricted use)
+ReALM,Language,Apple,United States of America,29/3/24,,3000000000,16300,,,Unreleased
+MM1-30B,"Multimodal,Language,Vision",Apple,United States of America,14/3/24,89,30000000000,1500000000000,,,Unreleased
+Inflection-2.5,Language,Inflection AI,United States of America,7/3/24,,,,,,Hosted access (no API)
+Claude 3 Opus,"Multimodal,Language,Vision",Anthropic,United States of America,4/3/24,,,,,,API access
+MegaScale (Production),Language,"ByteDance,Peking University","China,China",23/2/24,31,530000000000,,,504,Unreleased
+Sora,Video,OpenAI,United States of America,15/2/24,,,,,,Unreleased
+Gemini 1.5 Pro,"Language,Multimodal",Google DeepMind,Multinational,15/2/24,,,,,,API access
+Aya,Language,"Cohere for AI,Brown University,Cohere,Carnegie Mellon University (CMU),Massachusetts Institute of Technology (MIT)","Multinational,United States of America,Canada,United States of America,United States of America",12/2/24,85,13000000000,,,,Open access (unrestricted)
+Qwen1.5 72B,Language,Alibaba,China,4/2/24,,72000000000,,,,Open access (restricted use)
+Qwen-VL-Max,"Multimodal,Language,Vision",Alibaba,China,25/1/24,,7000000000,,,,API access
+AlphaGeometry,Mathematics,"Google DeepMind,New York University (NYU)","Multinational,United States of America",17/1/24,151,151000000,,,,Open access (unrestricted)
+CoRe,"Mathematics,Language",Tsinghua University,China,29/12/23,45,12400000000,,,,
+Gemini Nano-2,"Multimodal,Language,Vision,Audio",Google DeepMind,Multinational,19/12/23,633,3250000000,,,,Unreleased
+Gemini Nano-1,"Multimodal,Language,Vision,Audio",Google DeepMind,Multinational,19/12/23,633,1800000000,,,,Unreleased
+FunSearch,"Language,Search",Google DeepMind,Multinational,14/12/23,149,15000000000,0,,48,Open access (unrestricted)
+CogAgent,"Vision,Language","Tsinghua University,Zhipu AI","China,China",14/12/23,150,18000000000,287000000,,,Open access (restricted use)
+Mixtral 8x7B,Language,Mistral AI,France,11/12/23,,46700000000,,,,Open access (unrestricted)
+SeamlessM4T,"Speech,Language","Facebook,INRIA,UC Berkeley","United States of America,France,United States of America",8/12/23,77,2300000000,,,,Open access (unrestricted)
+Llama Guard,Language,Meta AI,United States of America,7/12/23,157,7000000000,4096000,1,,Open access (restricted use)
+Gemini 1.0 Ultra,"Multimodal,Language,Vision",Google DeepMind,Multinational,6/12/23,633,,,,2400,API access
+Gemini 1.0 Pro,"Multimodal,Language,Vision",Google DeepMind,Multinational,6/12/23,633,,,,,API access
+Mamba-24M (SC09),Speech,"Carnegie Mellon University (CMU),Princeton University","United States of America,United States of America",1/12/23,969,23400000,305280000,100,,
+Qwen-72B,Language,Alibaba,China,30/11/23,,72000000000,3000000000000,,,Open access (restricted use)
+PPLX-70B-Online,Language,Perplexity,United States of America,29/11/23,,70000000000,,,,API access
+Inflection-2,Language,Inflection AI,United States of America,22/11/23,,,,,,Hosted access (no API)
+Claude 2.1,Language,Anthropic,United States of America,21/11/23,0,,,,,API access
+Nemotron-3-8B,Language,NVIDIA,United States of America,15/11/23,,8000000000,3800000000000,,456,Open access (restricted use)
+Qwen-Audio-Chat,"Language,Speech,Audio",Alibaba,China,14/11/23,111,8460000000,,,,Open access (restricted use)
+GraphCast,Earth science,Google DeepMind,Multinational,14/11/23,,,,,,Open access (unrestricted)
+Volcano 13B,"Language,Multimodal,Vision","Korea University,Korea Advanced Institute of Science and Technology (KAIST),LG","Korea (Republic of),Korea (Republic of),Korea (Republic of)",13/11/23,19,13000000000,,1,30,Open access (non-commercial)
+SPHINX (Llama 2 13B),"Vision,Language,Multimodal","Shanghai AI Lab,Chinese University of Hong Kong (CUHK),ShanghaiTech University","China,Hong Kong,China",13/11/23,,19900000000,,,290,Open access (restricted use)
+MultiBand Diffusion,"Audio,Speech","Meta AI,Hebrew University of Jerusalem,LORIA","United States of America,Israel,France",8/11/23,11,,,,48,Open access (unrestricted)
+OmniVec,"Multimodal,Vision,Speech,Language,Video,3D modeling",TensorTour,United States of America,7/11/23,33,,,2000,,
+mPLUG-Owl2,"Vision,Language,Multimodal",Alibaba,China,7/11/23,,7120000000,400672000,1,,Open access (unrestricted)
+GPT-4 Turbo,"Multimodal,Vision,Language,Image generation",OpenAI,United States of America,6/11/23,,,,,,API access
+CogVLM-17B,"Multimodal,Vision,Language","Tsinghua University,Zhipu AI,Beihang University","China,China,China",6/11/23,246,17000000000,1518534581,,,Open access (restricted use)
+LLaVA 1.5,"Multimodal,Language,Vision","University of Wisconsin Madison,Microsoft Research","United States of America,United States of America",5/11/23,1191,13000000000,1200000,1,24,Open access (restricted use)
+RT-Trajectory,Robotics,"Google DeepMind,University of California San Diego,Stanford University","Multinational,United States of America,United States of America",3/11/23,19,,,,,
+BLUUMI,Language,"University of Turku,Hugging Face","Finland,Multinational",3/11/23,25,176000000000,38000000000,8,,Open access (unrestricted)
+Yi-34B,Language,01.AI,China,2/11/23,,34000000000,3100000000000,,,Open access (restricted use)
+Cohere Embed,Language,Cohere,Canada,2/11/23,,,,,,API access
+Skywork-13B,Language,Kunlun Inc.,China,30/10/23,69,13000000000,3180000000000,1,940,Open access (restricted use)
+ChatGLM3-6B,"Multimodal,Language,Vision",Zhipu AI,China,27/10/23,,6000000000,1400000000000,,,Open access (restricted use)
+DiT-XL/2 + CADS,Image generation,ETH Zurich,Switzerland,26/10/23,,675000000,,,,
+CODEFUSION (Python),Language,"Microsoft,Microsoft Research","United States of America,United States of America",26/10/23,15,75000000,4390400,,11,
+QMoE: compressed 1T model,Language,"Institute of Science and Technology Austria (ISTA),Neural Magic","Austria,United States of America",25/10/23,13,1600000000000,576000000000,,,Open access (unrestricted)
+DALL·E 3,Image generation,OpenAI,United States of America,19/10/23,536,,,,,API access
+ERNIE 4.0,"Multimodal,Language,Video,Image generation",Baidu,China,17/10/23,,,,,,
+RT-2-X,Robotics,Google DeepMind,Multinational,13/10/23,199,55000000000,,,,Unreleased
+Ferret (13B),"Multimodal,Language,Vision","Columbia University,Apple","United States of America,United States of America",11/10/23,163,13000000000,,3,120,Open access (non-commercial)
+FinGPT-13B,Language,"University of California Los Angeles (UCLA),Columbia University,New York University (NYU)","United States of America,United States of America,United States of America",7/10/23,26,13000000000,,,17.25,Open access (unrestricted)
+CTM (CIFAR-10),Image generation,"Stanford University,Sony","United States of America,Japan",1/10/23,74,,60000,1.7,,
+Amazon Titan,"Language,Image generation",Amazon,United States of America,28/9/23,,200000000000,4000000000000,,1152,API access
+Show-1,Video,National University of Singapore,Singapore,27/9/23,,,10700000,,,Open access (non-commercial)
+GPT-4V,"Multimodal,Vision,Language",OpenAI,United States of America,25/9/23,0,,,,,API access
+AlphaMissense,Biology,Google DeepMind,Multinational,22/9/23,377,93000000,9000000,4,,Unreleased
+Robot Parkour,Robotics,"Shanghai Qi Zhi institute,Stanford University,Carnegie Mellon University (CMU),Tsinghua University","China,United States of America,United States of America,China",12/9/23,84,500000,,,,
+Falcon-180B,Language,Technology Innovation Institute,United Arab Emirates,6/9/23,222,180000000000,2630000000000,1,4320,Open access (restricted use)
+Swift,Robotics,Intel Labs,Multinational,30/8/23,101,56804,,,0.833,Unreleased
+Jais,Language,"Cerebras Systems,Mohamed bin Zayed University of Artificial Intelligence,Inception","Multinational,United Arab Emirates,United States of America",29/8/23,20,13000000000,300000000000,,600,Open access (unrestricted)
+PeptideBERT,Biology,Carnegie Mellon University (CMU),United States of America,28/8/23,,,,30,4.067,Open access (unrestricted)
+Qwen-VL,"Multimodal,Language,Vision",Alibaba,China,24/8/23,322,9600000000,1400000000,1,,Open access (restricted use)
+GGNN,Biology,"Westlake University,Tsinghua University,Toyota Technological Institute at Chicago","China,China,United States of America",5/8/23,16,,,,,
+RT-2,Robotics,Google DeepMind,Multinational,28/7/23,595,55000000000,,,,
+AudioLM,Audio,Google,United States of America,26/7/23,408,1500000000,820800000,,,
+Llama 2-70B,Language,Meta AI,United States of America,18/7/23,7143,70000000000,1500000000000,1,1728,Open access (restricted use)
+Llama 2-7B,Language,Meta AI,United States of America,18/7/23,7143,70000000000,1500000000000,1,,Open access (restricted use)
+Claude 2,Language,Anthropic,United States of America,11/7/23,0,,,,,API access
+xTrimoPGLM -100B,Biology,"Tsinghua University,BioMap Research","China,China",6/7/23,59,100000000000,,,3912,Unreleased
+InternLM,Language,"Shanghai AI Lab,SenseTime","China,Hong Kong",6/7/23,0,100000000000,750000000000,,,
+Pangu-Weather,Earth science,Huawei,China,5/7/23,197,256000000,,100,1536,Open access (non-commercial)
+Stable Diffusion XL,Image generation,Stability AI,Multinational,4/7/23,999,3400000000,,,,
+HyenaDNA,Biology,"Stanford University,Harvard University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Université de Montréal","United States of America,United States of America,Canada,Canada",27/6/23,112,6600000,2945000000,679.1171477,672,
+ERNIE 3.5,Language,Baidu,China,27/6/23,0,,,,,
+RoboCat,Robotics,"Google DeepMind,Google","Multinational,United States of America",20/6/23,29,1180000000,,,,
+MusicGen,Audio,Meta AI,United States of America,8/6/23,203,3359000000,,,,
+LTM-1,Language,Magic,United States of America,6/6/23,,,,,,
+PaLI-X,"Multimodal,Language,Vision,Video",Google Research,Multinational,29/5/23,143,55000000000,1400000000,,,
+Goat-7B,Language,National University of Singapore,Singapore,23/5/23,61,7000000000,,1,,Open access (non-commercial)
+CodeT5+,Language,Salesforce,United States of America,20/5/23,296,16000000000,,10.8,,Open access (unrestricted)
+ONE-PEACE,"Multimodal,Vision,Speech,Language","Alibaba,Huazhong University of Science and Technology","China,China",18/5/23,67,4000000000,1600000000,4.7,,Open access (unrestricted)
+CoEdiT-xxl,Language,"University of Minnesota,Grammarly","United States of America,United States of America",17/5/23,36,11000000000,3000000,5,,Open access (non-commercial)
+InstructBLIP,"Multimodal,Language,Vision","Salesforce Research,Hong Kong University of Science and Technology,Nanyang Technological University","United States of America,Hong Kong,Singapore",11/5/23,1182,13000000000,,,36,Open access (non-commercial)
+PaLM 2,Language,Google,United States of America,10/5/23,883,340000000000,2700000000000,,,API access
+StarCoder,Language,"Hugging Face,ServiceNow,Northeastern University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),Carnegie Mellon University (CMU),Johns Hopkins University,Leipzig University,ScaDS.AI,Queen Mary University of London,Roblox,Sea AI Lab,Technion - Israel Institute of Technology,Monash University,CSIRO,Data61,McGill University,Saama,University of British Columbia (UBC),Massachusetts Institute of Technology (MIT),Technical University of Munich,IBM,University of Vermont,UnfoldML,SAP,University of Notre Dame,Columbia University,New York University (NYU),University of Allahabad,Discover Dollar,Toloka,Telefonica,Stanford University,Weizmann Institute of Science,Alan Turing Institute,Wellesley College,EleutherAI,Forschungszentrum Julich","Multinational,United States of America,United States of America,Canada,United States of America,United States of America,Germany,Germany,United Kingdom of Great Britain and Northern Ireland,United States of America,Singapore,Israel,Australia,Australia,Australia,Canada,United States of America,Canada,United States of America,Germany,United States of America,United States of America,Sweden,Multinational,United States of America,United States of America,United States of America,India,India,Multinational,Spain,United States of America,Israel,United Kingdom of Great Britain and Northern Ireland,United States of America,Multinational,Germany",9/5/23,451,15500000000,1000000000000,1,625.5,Open access (restricted use)
+ImageBind,"Multimodal,Vision,Audio,Language,Image generation,Speech",Meta AI,United States of America,9/5/23,547,932000000,,64,,Open access (non-commercial)
+Agile Soccer Robot,Robotics,Google DeepMind,Multinational,26/4/23,69,,,,240,Unreleased
+LLaVA,"Multimodal,Vision,Language","University of Wisconsin Madison,Microsoft Research,Columbia University","United States of America,United States of America,United States of America",17/4/23,2100,13000000000,,,10,Open access (unrestricted)
+DINOv2,Vision,"Facebook AI Research,INRIA","United States of America,France",14/4/23,1458,1140000000,142000000,,,Open access (unrestricted)
+Incoder-6.7B,Language,"Facebook AI Research,University of Washington,UC Berkeley,Carnegie Mellon University (CMU),Toyota Technological Institute at Chicago","United States of America,United States of America,United States of America,United States of America,United States of America",9/4/23,493,6700000000,,1,576,Open access (non-commercial)
+Segment Anything Model,Vision,Meta AI,United States of America,5/4/23,3868,636000000,1100000000,2,68,Open access (unrestricted)
+BloombergGPT,Language,"Bloomberg,Johns Hopkins University","United States of America,United States of America",30/3/23,505,50558868480,532000000000,0.8,1270,Unreleased
+VideoMAE V2,Video,"Nanjing University,Shenzhen Institute of Advanced Technology,Shanghai AI Lab","China,China,China",29/3/23,200,1000000000,,1200,336,Open access (unrestricted)
+Firefly,Image generation,Adobe,United States of America,21/3/23,,,,,,
+PanGu-Σ,Language,Huawei Noah's Ark Lab,China,20/3/23,45,1090000000000,247000000000,1.836,2400,Unreleased
+Gen-2,Video,Runway,United States of America,20/3/23,0,,,,,
+LEP-AD,Biology,"King Abdullah University of Science and Technology / KAUST,Karolinska Institute","Saudi Arabia,Sweden",15/3/23,1,3007381000,1244420,,,Unreleased
+GPT-4,"Multimodal,Language,Vision,Image generation",OpenAI,United States of America,15/3/23,7054,,4900000000000,2,2280,API access
+Falcon-40B,Language,Technology Innovation Institute,United Arab Emirates,15/3/23,0,40000000000,1000000000000,,1440,Open access (unrestricted)
+Claude,Language,Anthropic,United States of America,14/3/23,0,,,,,
+PaLM-E,"Robotics,Vision,Language","Google,TU Berlin","United States of America,Germany",6/3/23,1102,562000000000,,,,
+AudioGen,Audio,"Meta AI,Hebrew University of Jerusalem","United States of America,Israel",5/3/23,209,1000000000,230000000000,,168,Open access (non-commercial)
+DiT-XL/2,Image generation,"New York University (NYU),UC Berkeley","United States of America,United States of America",2/3/23,773,675000000,,,,
+LLaMA-65B,Language,Meta AI,United States of America,24/2/23,8031,65200000000,1340000000000,1.09,500,Open access (non-commercial)
+BASIC-L + Lion,Vision,"Google,University of California Los Angeles (UCLA)","United States of America,United States of America",13/2/23,227,3070000000,,,,
+ViT-22B,Vision,Google,United States of America,10/2/23,390,21743000000,4000000000,2.9,,Unreleased
+ProteinDT,"Biology,Language","UC Berkeley,California Institute of Technology,University of Toronto,University of Wisconsin Madison,Texas A&M,NVIDIA,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)","United States of America,United States of America,Canada,United States of America,United States of America,United States of America,Canada",9/2/23,,,,,,Unreleased
+Gen-1,Video,Runway,United States of America,6/2/23,347,,,,,
+Flan T5-XXL + BLIP-2,"Multimodal,Language,Vision",Salesforce,United States of America,30/1/23,2574,12100000000,,,200,Open access (unrestricted)
+BLIP-2 (Q-Former),"Vision,Language",Salesforce Research,United States of America,30/1/23,2574,1480000000,129000000,,200,Open access (unrestricted)
+DDPM-IP (CelebA),Image generation,Utrecht University,Netherlands,27/1/23,37,295000000,203000,681,120,
+MusicLM,Audio,Google,United States of America,26/1/23,300,860000000,,,,
+Ankh_large,Biology,"Technical University of Munich,Columbia University","Germany,United States of America",16/1/23,52,1900000000,14000000000,68,,Open access (non-commercial)
+Nucleotide Transformer,Biology,"NVIDIA,Technical University of Munich","United States of America,Germany",15/1/23,22,2500000000,300000000000,1,672,
+VALL-E,"Audio,Speech",Microsoft,United States of America,5/1/23,428,353000000,820800000,,,Unreleased
+Hybrid H3-2.7B,Language,"Stanford University,University at Buffalo","United States of America,United States of America",28/12/22,241,2700000000,,509.02,,Open access (unrestricted)
+CaLM,Biology,University of Oxford,United Kingdom of Great Britain and Northern Ireland,19/12/22,7,86000000,2304000000,14,960,
+RT-1,Robotics,Google,United States of America,13/12/22,608,35000000,,,,Open access (unrestricted)
+TranceptEve,Biology,"University of Oxford,Harvard Medical School","United Kingdom of Great Britain and Northern Ireland,United States of America",10/12/22,,,,,,
+DeepNash,Games,DeepMind,United Kingdom of Great Britain and Northern Ireland,1/12/22,143,,,,,
+GPT-3.5 Turbo,Language,OpenAI,United States of America,30/11/22,,20000000000,,,,API access
+GPT-3.5 (text-davinci-003),Language,OpenAI,United States of America,28/11/22,,,,,,API access
+DiT-XL/2 + Discriminator Guidance,Image generation,"Korea Advanced Institute of Science and Technology (KAIST),NAVER","Korea (Republic of),Korea (Republic of)",28/11/22,65,,,7,,
+Discriminator Guidance,Image generation,"Korea Advanced Institute of Science and Technology (KAIST),NAVER","Korea (Republic of),Korea (Republic of)",28/11/22,65,,,10,481,Open access (non-commercial)
+ALM 1.0,Language,Beijing Academy of Artificial Intelligence / BAAI,China,28/11/22,0,335000000,,,,
+CICERO,Games,Meta AI,United States of America,22/11/22,259,,,,,Open access (non-commercial)
+AR-LDM,Image generation,"Alibaba,University of Waterloo,Vector Institute","China,Canada,Canada",20/11/22,46,1500000000,,50,194,Unreleased
+Fusion in Encoder,Language,Samsung,Korea (Republic of),18/11/22,8,330000000,,,48,
+Galactica,"Language,Biology",Meta AI,United States of America,16/11/22,569,120000000000,106000000000,4,,Open access (non-commercial)
+EVA-01,Vision,"Beijing Academy of Artificial Intelligence / BAAI,Huazhong University of Science and Technology,Zhejiang University,Beijing Institute of Technology","China,China,China,China",14/11/22,471,1011000000,29600000,150,348,Open access (unrestricted)
+AltCLIP_M9,"Multimodal,Language,Vision",Beijing Academy of Artificial Intelligence / BAAI,China,12/11/22,62,,,10,,Open access (unrestricted)
+InternImage,Vision,"Shanghai AI Lab,Tsinghua University,Nanjing University,SenseTime,Chinese University of Hong Kong (CUHK)","China,China,China,Hong Kong,Hong Kong",10/11/22,434,1080000000,427000000,30,,Open access (unrestricted)
+BLOOM-176B,Language,"Hugging Face,BigScience","Multinational,Multinational",8/11/22,1861,176000000000,379000000000,1,2808,Open access (restricted use)
+mT0-13B,Language,"Hugging Face,BigScience","Multinational,Multinational",3/11/22,242,13000000000,20000000000,,,Open access (unrestricted)
+Mogrifier RLSTM (WT2),Language,DeepMind,United Kingdom of Great Britain and Northern Ireland,3/11/22,0,35000000,,250,,Unreleased
+BLOOMZ-176B,Language,Hugging Face,Multinational,3/11/22,242,176000000000,20000000000,,,Open access (unrestricted)
+eDiff-I,Image generation,NVIDIA,United States of America,2/11/22,629,9100000000,1000000000,,,API access
+EnCodec,Audio,Meta AI,United States of America,24/10/22,378,,,300,,Open access (non-commercial)
+U-PaLM (540B),Language,Google,United States of America,20/10/22,57,540000000000,,,120,Unreleased
+LMSI-Palm,Language,"Google,University of Illinois Urbana-Champaign (UIUC)","United States of America,United States of America",20/10/22,381,540000000000,,,,Unreleased
+Flan-T5 11B,Language,Google,United States of America,20/10/22,2366,11000000000,100000000000,,,Open access (unrestricted)
+Flan-PaLM 540B,Language,Google,United States of America,20/10/22,2366,540000000000,,,37,Unreleased
+GenSLM,Biology,"University of Chicago,NVIDIA,Harvard University,Cerebras Systems,Technical University of Munich,California Institute of Technology","United States of America,United States of America,United States of America,Multinational,Germany,United States of America",11/10/22,55,25000000000,,,,
+Diplodocus,Games,"Meta AI,Massachusetts Institute of Technology (MIT)","United States of America,United States of America",11/10/22,30,,,,,Open access (non-commercial)
+Phenaki,Video,"University College London (UCL),University of Michigan,Google Brain","United Kingdom of Great Britain and Northern Ireland,United States of America,United States of America",5/10/22,274,1800000000,,,,
+DiffDock,Biology,Massachusetts Institute of Technology (MIT),United States of America,4/10/22,291,20240000,17000,850,432,Open access (unrestricted)
+Make-A-Video,Video,Meta AI,United States of America,29/9/22,907,,,,,
+Whisper,Speech,OpenAI,United States of America,21/9/22,2043,1550000000,9302400000,3,,Open access (unrestricted)
+PaLI,"Language,Vision,Multimodal",Google,United States of America,14/9/22,532,16900000000,1600000000,1,240,Unreleased
+BEIT-3,"Multimodal,Vision,Language",Microsoft,United States of America,22/8/22,542,1900000000,,,,Unreleased
+BlenderBot 3,Language,"McGill University,Meta AI,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)","Canada,United States of America,Canada",10/8/22,206,175000000000,1300000000,,,Open access (non-commercial)
+GLM-130B,Language,Tsinghua University,China,4/8/22,946,130000000000,400000000000,1,1440,Open access (non-commercial)
+AlexaTM 20B,Language,Amazon,United States of America,2/8/22,73,19750000000,1320000000000,,2880,API access
+OmegaPLM,Biology,"Massachusetts Institute of Technology (MIT),Westlake University","United States of America,China",22/7/22,253,670000000,,,,
+ESM2-15B,Biology,"Meta AI,New York University (NYU),Stanford University,Massachusetts Institute of Technology (MIT)","United States of America,United States of America,United States of America,United States of America",21/7/22,636,15000000000,12000000000,72,1440,Open access (unrestricted)
+NLLB,Language,Meta AI,United States of America,6/7/22,844,54500000000,360000000000,,,Open access (unrestricted)
+CodeT5-large,Language,Salesforce,United States of America,5/7/22,171,770000000,10500000000,150,504,Open access (unrestricted)
+Minerva (540B),Language,Google,United States of America,29/6/22,542,540000000000,26000000000,,696,Unreleased
+ProGen2-xlarge,Biology,"Salesforce Research,Columbia University,Johns Hopkins University","United States of America,United States of America,United States of America",27/6/22,179,6400000000,350000000000,,,Open access (unrestricted)
+Parti,Image generation,Google Research,Multinational,22/6/22,827,20000000000,4800000000,,,Unreleased
+CoCa,Vision,Google Research,Multinational,14/6/22,1016,2100000000,4800000000,6.875,120,Unreleased
+MetaLM,"Multimodal,Language,Vision",Microsoft Research,United States of America,13/6/22,89,,,,,
+DITTO,Language,"Tsinghua University,Apple,Westlake University,Chinese University of Hong Kong (CUHK)","China,United States of America,China,Hong Kong",6/6/22,52,750000000,,7.16,,Unreleased
+Diffusion-GAN,Image generation,"UT Austin,Microsoft","United States of America,United States of America",5/6/22,151,,,,,
+CogVideo,"Multimodal,Video","Tsinghua University,Beijing Academy of Artificial Intelligence / BAAI","China,China",29/5/22,334,9400000000,5400000,,,Open access (unrestricted)
+Tranception,Biology,"University of Oxford,Harvard Medical School,Cohere","United Kingdom of Great Britain and Northern Ireland,United States of America,Canada",27/5/22,129,700000000,,,336,Open access (unrestricted)
+Imagen,Image generation,Google Brain,United States of America,23/5/22,4291,7762000000,860000000,,96,API access
+SimCSE,Language,"Princeton University,Tsinghua University","United States of America,China",18/5/22,2679,,,,,
+Gato,"Multimodal,Robotics,Games,Language",DeepMind,United Kingdom of Great Britain and Northern Ireland,12/5/22,634,1180000000,524000000000,,96,Unreleased
+UL2,Language,"Google Research,Google Brain","Multinational,United States of America",10/5/22,240,20000000000,1000000000000,,744,Open access (unrestricted)
+OPT-175B,Language,Meta AI,United States of America,2/5/22,2763,175000000000,180000000000,1.6667,793.5,Open access (non-commercial)
+Flamingo,"Multimodal,Vision,Language,Video",DeepMind,United Kingdom of Great Britain and Northern Ireland,29/4/22,2312,80000000000,,,360,Unreleased
+Sparse all-MLP,Language,Meta AI,United States of America,14/4/22,11,9410000000,100000000000,,112,Unreleased
+Stable Diffusion (LDM-KL-8-G),Image generation,"Runway,Ludwig Maximilian University","United States of America,Germany",13/4/22,9848,1450000000,400000000,,585.9375,Open access (restricted use)
+BERT-RBP,Biology,Waseda University,Japan,7/4/22,32,110000000,,,,Open access (non-commercial)
+DALL·E 2,Image generation,OpenAI,United States of America,6/4/22,5171,3500000000,650000000,,,
+PaLM (540B),Language,Google Research,Multinational,4/4/22,4789,540000000000,585000000000,1,1536,Unreleased
+Chinchilla,Language,DeepMind,United Kingdom of Great Britain and Northern Ireland,29/3/22,1373,70000000000,1050000000000,1,,Unreleased
+"Segatron-XL large, M=384 + HCP",Language,"Microsoft Research,University of Waterloo","United States of America,Canada",21/3/22,13,257000000,,167.02,,Unreleased
+ViT-G (model soup),Vision,"University of Washington,Columbia University,Google,Meta AI,Tel Aviv University","United States of America,United States of America,United States of America,United States of America,Israel",10/3/22,638,1843000000,,8,,Open access (non-commercial)
+MegaSyn,Medicine,Collaborations Pharmaceuticals,United States of America,7/3/22,148,,,,,Unreleased
+Statement Curriculum Learning,"Language,Mathematics",OpenAI,United States of America,2/3/22,84,774000000,275000000000,,,
+DeepNet,Language,Microsoft Research,United States of America,1/3/22,120,3200000000,12000000000,,,
+PolyCoder,Language,Carnegie Mellon University (CMU),United States of America,26/2/22,476,2700000000,,,1000,
+ST-MoE,Language,"Google,Google Brain,Google Research","United States of America,United States of America,Multinational",17/2/22,98,269000000000,1500000000000,0.84,,Unreleased
+Midjourney V1,Image generation,Midjourney,United States of America,15/2/22,,,,,,
+ProteinBERT,Biology,"Hebrew University of Jerusalem,Ben-Gurion University of the Negev,Deep Trading","Israel,United States of America,United States of America",10/2/22,362,16000000,,6.4,672,
+LaMDA,Language,Google,United States of America,10/2/22,1333,137000000000,1560000000000,,1385,Unreleased
+GPT-NeoX-20B,Language,EleutherAI,Multinational,9/2/22,655,20000000000,341000000000,1.4,2160,Open access (unrestricted)
+RETRO-7B,Language,DeepMind,United Kingdom of Great Britain and Northern Ireland,7/2/22,761,7500000000,419000000000,,,Unreleased
+AlphaCode,Language,DeepMind,United Kingdom of Great Britain and Northern Ireland,2/2/22,955,41100000000,,,,Unreleased
+InstructGPT,Language,OpenAI,United States of America,27/1/22,8495,175000000000,374000000000,,,
+OntoProtein,"Biology,Language",Zhejiang University,China,23/1/22,,420000000,,,,
+AbLang (heavy sequences),Biology,University of Oxford,United Kingdom of Great Britain and Northern Ireland,22/1/22,94,355000000,,20,,
+data2vec (vision),Vision,Meta AI,United States of America,20/1/22,678,705134592,1281167,800,,
+data2vec (speech),Speech,Meta AI,United States of America,20/1/22,678,705134592,13132800,,,
+data2vec (language),Language,Meta AI,United States of America,20/1/22,678,705134592,3300000000,,,Open access (unrestricted)
+Detic,Vision,"Meta AI,University of Texas at Austin","United States of America,United States of America",7/1/22,452,88000000,16900000,,24,Open access (unrestricted)
+ERNIE-ViLG,"Multimodal,Image generation,Vision",Baidu,China,31/12/21,51,10000000000,145000000,,,
+ERNIE 3.0 Titan,Language,"Baidu,Peng Cheng Laboratory","China,China",23/12/21,66,260000000000,668000000000,,,Hosted access (no API)
+XGLM-7.5B,Language,"Meta AI,Facebook AI Research","United States of America,United States of America",20/12/21,221,7500000000,1740000000,1,504,Open access (non-commercial)
+LDM-1.45B,Image generation,"Heidelberg University,Runway","Germany,United States of America",20/12/21,9848,1450000000,400000000,0.66,,Open access (unrestricted)
+GLIDE,Image generation,OpenAI,United States of America,20/12/21,2645,3500000000,250000000,,,
+Contriever,Language,"Meta AI,University College London (UCL),PSL University,Université Grenoble Alpes","United States of America,United Kingdom of Great Britain and Northern Ireland,France,France",16/12/21,532,110000000,,,,Open access (non-commercial)
+LongT5,Language,Google Research,Multinational,15/12/21,247,3000000000,200000000000,3.2,,Open access (unrestricted)
+GLaM,Language,Google,United States of America,13/12/21,559,1200000000000,600000000000,,1366,Unreleased
+Gopher (280B),Language,DeepMind,United Kingdom of Great Britain and Northern Ireland,8/12/21,1071,280000000000,300000000000,1,920,Unreleased
+Student of Games,Games,DeepMind,United Kingdom of Great Britain and Northern Ireland,6/12/21,11,,,,,Unreleased
+DeBERTaV3-large + KEAR,Language,Microsoft,United States of America,6/12/21,50,418000000,,10,,
+NÜWA,"Multimodal,Vision,Image generation,Video,Language","Microsoft Research,Peking University","United States of America,China",24/11/21,252,870000000,,,,Unreleased
+Florence,Vision,Microsoft,United States of America,22/11/21,737,893000000,900000000,,240,Unreleased
+BASIC-L,Vision,Google,United States of America,19/11/21,164,3070000000,6700000000,3,,Unreleased
+Swin Transformer V2,"Vision,Video",Microsoft Research Asia,China,18/11/21,1290,3000000000,,,,Open access (unrestricted)
+ViT-G/14 (LiT),Vision,Google,United States of America,15/11/21,446,3005000000,4000000000,4.5,,
+Masked Autoencoders ViT-H,Vision,Facebook AI Research,United States of America,11/11/21,5598,632000000,1281167,1600,69,Open access (non-commercial)
+Projected GAN,Image generation,Heidelberg University,Germany,1/11/21,196,,3000000,,,
+CodeT5-base,Language,"Salesforce,Nanyang Technological University","United States of America,Singapore",1/11/21,1154,220000000,,150,288,Open access (unrestricted)
+S4,Language,Stanford University,United States of America,31/10/21,931,249000000,,509.02,,Open access (unrestricted)
+EfficientZero,Games,"Tsinghua University,UC Berkeley,Shanghai Qi Zhi institute","China,United States of America,China",30/10/21,177,,,,,
+Eve,Biology,"Harvard Medical School,University of Oxford","United States of America,United Kingdom of Great Britain and Northern Ireland",27/10/21,397,15010300,,,,Unreleased
+base LM+GNN+kNN,Language,"Shannon.AI,Nanjing University,Nanyang Technological University,Zhejiang University","China,China,Singapore,China",17/10/21,35,274000000,,,,Open access (unrestricted)
+T0-XXL,Language,"Hugging Face,Brown University","Multinational,United States of America",15/10/21,1475,11000000000,,,27,Open access (unrestricted)
+Yuan 1.0,Language,Inspur,China,12/10/21,47,246000000000,1000000000000,,,API access
+Megatron-Turing NLG 530B,Language,"Microsoft,NVIDIA","United States of America,United States of America",11/10/21,636,530000000000,270000000000,,770,Unreleased
+AlphaFold-Multimer,Biology,"Google DeepMind,DeepMind","Multinational,United Kingdom of Great Britain and Northern Ireland",4/10/21,1687,,147328,68,384,Open access (unrestricted)
+TrOCR,Vision,"Beihang University,Microsoft Research Asia","China,China",21/9/21,226,558000000,721200000,,,Open access (unrestricted)
+PLATO-XL,Language,Baidu,China,20/9/21,56,11000000000,150000000000,,,Open access (unrestricted)
+HyperCLOVA 204B,Language,NAVER,Korea (Republic of),10/9/21,92,204000000000,,,,
+PermuteFormer,Language,Peking University,China,6/9/21,19,149697024,103000000,30,,Unreleased
+MEB,"Search,Language",Microsoft,United States of America,4/9/21,26,135000000000,,,,
+FLAN 137B,Language,Google Research,Multinational,3/9/21,2808,137000000000,2490000000000,1,,Unreleased
+XLMR-XXL,Language,Facebook AI Research,United States of America,17/8/21,98,10700000000,167000000000,3.139449102,,Open access (unrestricted)
+DNABERT,Biology,Northeastern University,United States of America,15/8/21,449,110000000,3000000000,,600,Open access (unrestricted)
+Zidong Taichu,"Multimodal,Speech,Vision,Language",Chinese Academy of Sciences,China,11/8/21,0,3200000000,,,,
+Jurassic-1-Jumbo,Language,AI21 Labs,Israel,11/8/21,55,178000000000,225000000000,,,API access
+W2v-BERT,Speech,"Google Brain,Massachusetts Institute of Technology (MIT)","United States of America,United States of America",7/8/21,330,1000000000,,,,
+YOLOX-X,Vision,Megvii Inc,China,6/8/21,3207,99100000,2500000,300,,Open access (unrestricted)
+6-Act Tether,Robotics,"Facebook AI Research,Georgia Institute of Technology","United States of America,United States of America",3/8/21,74,5000000,,,,
+SEER,Vision,"Facebook AI Research,INRIA","United States of America,France",29/7/21,236,1300000000,1000000000,,195.5,Open access (non-commercial)
+HuBERT,Speech,Facebook AI Research,United States of America,27/7/21,2116,1000000000,820800000,,,Open access (unrestricted)
+GOAT,Games,DeepMind,United Kingdom of Great Britain and Northern Ireland,27/7/21,162,3472816,390000000000,,,Unreleased
+Codex,Language,OpenAI,United States of America,7/7/21,3533,12000000000,31800000000,,,API access
+ERNIE 3.0,Language,Baidu,China,5/7/21,333,10000000000,668000000000,,,Open access (unrestricted)
+Adaptive Input Transformer + RD,Language,"Microsoft Research Asia,Soochow University","China,Taiwan",28/6/21,373,247000000,,,,Unreleased
+Fold2Seq,Biology,"IBM,Texas A&M","United States of America,United States of America",24/6/21,44,12427904,45995,200,,
+EfficientNetV2-XL,Vision,"Google,Google Brain","United States of America,United States of America",23/6/21,1960,208000000,14000000,30,45,Open access (unrestricted)
+Denoising Diffusion Probabilistic Models (LSUN Bedroom),Vision,UC Berkeley,United States of America,11/6/21,10780,256000000,3033042,,,Open access (unrestricted)
+ALIGN,"Multimodal,Vision,Language",Google Research,Multinational,11/6/21,2887,820000000,1600000000,,347.3,Unreleased
+DeBERTa,Language,Microsoft,United States of America,10/6/21,2146,1500000000,15600000000,49.2,720,Open access (unrestricted)
+EMDR,Language,"Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),McGill University,DeepMind","Canada,Canada,United Kingdom of Great Britain and Northern Ireland",9/6/21,136,440000000,172000000000,4.05,355,Open access (unrestricted)
+CoAtNet,Vision,"Google,Google Research,Google Brain","United States of America,Multinational,United States of America",9/6/21,959,2440000000,3000000000,1.83,,Unreleased
+ViT-G/14,Vision,"Google Brain,Google Research","United States of America,Multinational",8/6/21,879,1843000000,3000000000,54.6,,Unreleased
+ByT5-XXL,Language,"Google,Google Research","United States of America,Multinational",28/5/21,369,12900000000,,,,Open access (unrestricted)
+Transformer local-attention (NesT-B),Vision,"Google Cloud,Google Research","Multinational,Multinational",26/5/21,5734,90100000,1280000,,,Open access (unrestricted)
+CogView,Image generation,"Tsinghua University,Alibaba DAMO Academy","China,China",26/5/21,596,4000000000,50000000000,,,Open access (unrestricted)
+MedBERT,Medicine,"Peng Cheng Laboratory,University of Texas at Houston","China,United States of America",20/5/21,501,17000000,,,168,Unreleased
+ADM,Image generation,OpenAI,United States of America,11/5/21,5178,559000000,1281167,381,,Open access (non-commercial)
+ProtT5-XXL-BFD,Biology,"Technical University of Munich,Med AI Technology,NVIDIA,Oak Ridge National Laboratory,Google,Seoul National University","Germany,China,United States of America,United States of America,United States of America,Korea (Republic of)",4/5/21,,11000000000,,,,Open access (unrestricted)
+ProtT5-XXL,Biology,"Technical University of Munich,Med AI Technology,NVIDIA,Oak Ridge National Laboratory,Google,Seoul National University","Germany,China,United States of America,United States of America,United States of America,Korea (Republic of)",4/5/21,396,11000000000,407000000000,,,Open access (unrestricted)
+ProtBERT-BFD,Biology,"Technical University of Munich,NVIDIA,Seoul National University,Google,Oak Ridge National Laboratory,Med AI Technology","Germany,United States of America,Korea (Republic of),United States of America,United States of America,China",4/5/21,,420000000,8900000000000,,,Open access (unrestricted)
+ViT + DINO,Vision,"INRIA,Facebook AI Research","France,United States of America",29/4/21,4310,85000000,,300,,Open access (unrestricted)
+PLUG,Language,Alibaba,China,19/4/21,0,27000000000,,,840,Hosted access (no API)
+M6-T,"Multimodal,Language,Vision",Alibaba,China,5/3/21,76,1000000000000,1900000000000,,,Unreleased
+Generative BST,Language,Facebook AI Research,United States of America,5/3/21,923,9431810048,56800000000,1.76056338,,
+Meta Pseudo Labels,Vision,"Google Brain,Google AI","United States of America,Multinational",1/3/21,582,480000000,130000000,,264,Unreleased
+SRU++ Large,Language,ASAPP,United States of America,24/2/21,42,234000000,,34.08,,Open access (unrestricted)
+Rational DQN Average,Games,TU Darmstadt,Germany,18/2/21,6,1683456,,,,
+MSA Transformer,Biology,"Facebook AI Research,UC Berkeley,New York University (NYU)","United States of America,United States of America,United States of America",13/2/21,413,100000000,9300000000000,,,Open access (unrestricted)
+top-down frozen classifier,Language,"University of Edinburgh,Toshiba Cambridge Research Laboratory","United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland",9/2/21,2,,,,,Unreleased
+DeiT-B,Vision,"Meta AI,Sorbonne University","United States of America,France",15/1/21,5493,86000000,1280000,300,53,Open access (unrestricted)
+Switch,Language,Google,United States of America,11/1/21,1529,1570000000000,576000000000,,648,Open access (unrestricted)
+BigSSL,Speech,"Google,Apple","United States of America,United States of America",10/1/21,147,8000000000,42626880000,,,
+DALL-E,Image generation,OpenAI,United States of America,5/1/21,3802,12000000000,250000000,,,API access
+CLIP (ViT L/14@336px),"Multimodal,Vision,Language,Video",OpenAI,United States of America,5/1/21,18887,370000000,400000000,,288,Open access (unrestricted)
+CLIP (ResNet-50),"Multimodal,Vision,Language,Video",OpenAI,United States of America,5/1/21,18887,88600000,400000000,,,
+ERNIE-Doc (247M),Language,Baidu,China,31/12/20,46,247000000,,190.88,,Open access (unrestricted)
+CT-MoS (WT2),Language,"Google,National Tsing Hua University","United States of America,Taiwan",25/12/20,15,45000000,,1000,,Unreleased
+DensePhrases,Language,"Korea University,Princeton University","Korea (Republic of),United States of America",23/12/20,105,,58000000,4,20,Open access (unrestricted)
+VQGAN + CLIP,Image generation,Heidelberg University,Germany,17/12/20,2069,,,,,
+ESM1b,Biology,"Facebook AI Research,New York University (NYU)","United States of America,United States of America",15/12/20,1609,652400000,,56,,Open access (unrestricted)
+CPM-Large,Language,"Tsinghua University,Beijing Academy of Artificial Intelligence / BAAI","China,China",1/12/20,103,2600000000,16700000000,,336,Open access (unrestricted)
+AlphaFold 2,Biology,DeepMind,United Kingdom of Great Britain and Northern Ireland,30/11/20,20426,93000000,530000,,264,Open access (unrestricted)
+KEPLER,Language,"Tsinghua University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),HEC,CIFAR AI Research,Princeton University,University of Montreal / Université de Montréal","China,Canada,France,Canada,United States of America,Canada",23/11/20,552,125000000,3300000000,,,Unreleased
+SimCLRv2,Vision,Google Brain,United States of America,26/10/20,2008,795000000,1280000,,,
+wave2vec 2.0 LARGE,Speech,Facebook,United States of America,22/10/20,4417,317000000,727776000,,,Open access (unrestricted)
+ViT-Huge/14,Vision,"Google Brain,Google Research","United States of America,Multinational",22/10/20,28240,632000000,1280000,14,,Open access (unrestricted)
+ViT-Base/32,Vision,Google Brain,United States of America,22/10/20,28240,86000000,,,,
+German ELECTRA Large,Language,"deepset,Bayerische Staatsbibliothek Muenchen","Germany,Germany",21/10/20,238,335000000,36383733333,,168,Open access (unrestricted)
+GBERT-Large,Language,"deepset,Bayerische Staatsbibliothek Muenchen","Germany,Germany",21/10/20,238,335000000,27287800000,,264,Open access (unrestricted)
+mT5-XXL,Language,"Google,Google Research","United States of America,Multinational",20/10/20,2022,13000000000,1000000000000,1,,Open access (unrestricted)
+Conformer + Wav2vec 2.0 + Noisy Student,Speech,"Google,Google Research,Google Brain","United States of America,Multinational,United States of America",20/10/20,290,1000000000,,,168,Unreleased
+LUKE,Language,"University of Washington,National Institute of Informatics","United States of America,Japan",2/10/20,601,484000000,3500000000,,720,Open access (unrestricted)
+ProBERTa,Biology,"University of Illinois Urbana-Champaign (UIUC),Reed College","United States of America,United States of America",1/9/20,97,44000000,58320000,,18,
+ERNIE-GEN (large),Language,Baidu,China,6/8/20,117,340000000,86000000000,,,Open access (non-commercial)
+DeLighT,Language,"University of Washington,Allen Institute for AI,Facebook AI Research","United States of America,United States of America,United States of America",3/8/20,98,99000000,,62.14,,Unreleased
+EfficientDet,Vision,Google Brain,United States of America,27/7/20,4701,77000000,,,,Open access (unrestricted)
+Hopfield Networks (2020),"Biology,Vision,Language,Medicine","Johannes Kepler University Linz,Institute of Advanced Research in Artificial Intelligence,University of Oslo","Austria,Austria,Norway",16/7/20,327,,,,,Open access (unrestricted)
+SemExp,Robotics,"Carnegie Mellon University (CMU),Facebook AI Research","United States of America,United States of America",2/7/20,405,,,,,Open access (unrestricted)
+GShard (dense),Language,Google,United States of America,30/6/20,829,2300000000,347000000000,,1008,Unreleased
+iGPT-XL,"Vision,Image generation",OpenAI,United States of America,17/6/20,1310,6801000000,1229920,,,Open access (unrestricted)
+iGPT-L,"Image generation,Vision",OpenAI,United States of America,17/6/20,1310,1362000000,1229920,,,Open access (unrestricted)
+GPT-3 175B (davinci),Language,OpenAI,United States of America,28/5/20,30858,175000000000,374000000000,0.6,355.2,API access
+DETR,Vision,Facebook,United States of America,26/5/20,10201,60000000,123000,500,,Open access (unrestricted)
+Retrieval-Augmented Generator,Language,"Facebook,New York University (NYU),University College London (UCL)","United States of America,United States of America,United Kingdom of Great Britain and Northern Ireland",22/5/20,3123,626000000,,,,Open access (unrestricted)
+Conformer,Speech,Google,United States of America,16/5/20,2558,118800000,,,,Unreleased
+ContextNet,Speech,Google,United States of America,7/5/20,233,112700000,1710000000,,,Unreleased
+NAS+ESS (156M),Language,"Northeastern University (China),Chinese Academy of Sciences,NiuTrans Research,Kingsoft","China,China,China,China",6/5/20,12,156000000,,30,,Unreleased
+UnifiedQA,Language,"Allen Institute for AI,University of Washington","United States of America,United States of America",2/5/20,657,11000000000,97309860,1.88,36,Unreleased
+ATLAS,Language,"Allen Institute for AI,University of Washington","United States of America,United States of America",2/5/20,657,11000000000,,,36,Open access (unrestricted)
+Once for All,Vision,"MIT-IBM Watson AI Lab,Massachusetts Institute of Technology (MIT),IBM","United States of America,United States of America,United States of America",29/4/20,1137,7700000,,,,Open access (unrestricted)
+Go-explore,Games,"Uber AI,OpenAI","United States of America,United States of America",27/4/20,305,,,,,Unreleased
+CURL,Games,UC Berkeley,United States of America,8/4/20,951,907264,,,,Open access (unrestricted)
+Agent57,Games,DeepMind,United Kingdom of Great Britain and Northern Ireland,30/3/20,479,,,,,Unreleased
+MetNet,Earth science,Google,United States of America,24/3/20,242,,,,,Unreleased
+ELECTRA,Language,"Stanford University,Google,Google Brain","United States of America,United States of America,United States of America",23/3/20,2968,335000000,25000000000,,,Open access (unrestricted)
+Tensor-Transformer(1core)+PN (WT103),Language,UC Berkeley,United States of America,17/3/20,60,85300000,,30,,Open access (unrestricted)
+Routing Transformer (WT-103),Language,Google Research,Multinational,12/3/20,506,79500000,,,,Open access (unrestricted)
+TransformerXL + spectrum control,Language,"University of California Los Angeles (UCLA),JD.com","United States of America,China",11/3/20,78,151000000,,250,,Unreleased
+TCAN (WT2),Language,"Nanjing University,Ant Group","China,China",28/2/20,35,33000000,,,,Unreleased
+Feedback Transformer,Language,"LORIA,University of Lorraine,Facebook AI Research","France,France,United States of America",21/2/20,41,126000000,,267.23,,Unreleased
+Turing-NLG,Language,Microsoft,United States of America,13/2/20,114,17000000000,46400000000,3.39,,Unreleased
+SimCLR,Vision,Google Brain,United States of America,13/2/20,15538,375000000,,1000,,Open access (unrestricted)
+ALBERT-xxlarge,Language,"Toyota Technological Institute at Chicago,Google","United States of America,United States of America",9/2/20,5809,235000000,3300000000,,32,Open access (unrestricted)
+TaLK Convolution,Language,Carleton University,Canada,8/2/20,28,240000000,,187.43,,Unreleased
+Perceiver IO (optical flow),"Multimodal,Language,Vision",DeepMind,United Kingdom of Great Britain and Northern Ireland,8/2/20,491,27900000,,,,Unreleased
+Theseus 6/768,Language,"University of California San Diego,Beihang University,Microsoft","United States of America,China,United States of America",7/2/20,184,66000000,,,,Open access (unrestricted)
+Meena,Language,Google Brain,United States of America,28/1/20,867,2600000000,40000000000,164,720,Unreleased
+ContextNet + Noisy Student,Speech,Google,United States of America,19/1/20,221,,,,1440,Unreleased
+AlphaFold,Biology,DeepMind,United Kingdom of Great Britain and Northern Ireland,15/1/20,2773,16340840,,,120,Unreleased
+Big Transfer (BiT-L),Vision,Google Brain,United States of America,24/12/19,1082,928000000,,40,,Unreleased
+DD-PPO,Robotics,"Georgia Institute of Technology,Facebook AI Research,Oregon State University,Simon Fraser University","United States of America,United States of America,United States of America,Canada",19/12/19,401,,,,66,Unreleased
+OpenAI Five Rerun,Games,OpenAI,United States of America,13/12/19,1591,159000000,53084160000,,,Unreleased
+OpenAI Five,Games,OpenAI,United States of America,13/12/19,1591,159000000,454000000000,,7104,Unreleased
+MMLSTM,Language,"Beijing University of Posts and Telecommunications,University of West London","China,United Kingdom of Great Britain and Northern Ireland",5/12/19,15,75000000,,50,,Unreleased
+StarGAN v2,"Vision,Image generation","NAVER,Yonsei University,Swiss Federal Institute of Technology","Korea (Republic of),Korea (Republic of),Switzerland",4/12/19,1517,,,,,Open access (non-commercial)
+Transformer-XL DeFINE (141M),Language,"University of Washington,Allen Institute for AI","United States of America,United States of America",27/11/19,22,141000000,,20,,Unreleased
+Photo-Geometric Autoencoder,"3D modeling,Vision",University of Oxford,United Kingdom of Great Britain and Northern Ireland,25/11/19,290,,,,,Open access (unrestricted)
+Transformer - LibriVox + Decoding/Rescoring,Speech,Facebook,United States of America,19/11/19,237,296000000,,,,Open access (unrestricted)
+MuZero,Games,DeepMind,United Kingdom of Great Britain and Northern Ireland,19/11/19,1723,36864000,20000000000,,,Unreleased
+MoCo,"Vision,Image generation",Facebook AI,United States of America,13/11/19,10392,375000000,,,,Open access (non-commercial)
+Noisy Student (L2),Vision,"Carnegie Mellon University (CMU),Google","United States of America,United States of America",11/11/19,2177,480000000,81000000,,144,Unreleased
+Sandwich Transformer,Language,"Allen Institute for AI,Facebook AI Research","United States of America,United States of America",10/11/19,80,209000000,,180,,Unreleased
+CamemBERT,Language,"Facebook,INRIA,Sorbonne University","United States of America,France,France",10/11/19,990,335000000,31900000000,13,24,Open access (unrestricted)
+XLM-RoBERTa,Language,Facebook AI,United States of America,5/11/19,5499,550000000,125000000000,,,Open access (non-commercial)
+Base LM + kNN LM + Continuous Cache,Language,"Stanford University,Facebook AI Research","United States of America,United States of America",1/11/19,690,247000000,,200,,Unreleased
+AlphaStar,Games,DeepMind,United Kingdom of Great Britain and Northern Ireland,30/10/19,3229,139000000,,,1056,Unreleased
+BART-large,Language,Facebook AI,United States of America,29/10/19,9216,406291456,,,,Open access (unrestricted)
+T5-11B,Language,Google,United States of America,23/10/19,15986,11000000000,200000000000,,481.9,Open access (unrestricted)
+T5-3B,Language,Google,United States of America,23/10/19,15986,2800000000,25500000000,0.17,,Open access (unrestricted)
+M4-50B,Language,Google,United States of America,11/10/19,,50000000000,,,,Unreleased
+DistilBERT,Language,Hugging Face,Multinational,2/10/19,6160,66000000,,,,Open access (unrestricted)
+AlphaX-1,Vision,"Facebook AI Research,Brown University","United States of America,United States of America",2/10/19,91,579000000,1480000,,,Unreleased
+ALBERT,Language,"Toyota Technological Institute at Chicago,Google Research","United States of America,Multinational",26/9/19,5809,18000000,3300000000,,,Open access (unrestricted)
+Adaptive Inputs + LayerDrop,Language,"Facebook AI Research,LORIA","United States of America,France",25/9/19,531,423000000,,,,Open access (unrestricted)
+Megatron-LM (8.3B),Language,NVIDIA,United States of America,17/9/19,1442,8300000000,34800000000,4.4,327,Unreleased
+Megatron-BERT,Language,NVIDIA,United States of America,17/9/19,1442,3900000000,46400000000,,374,Unreleased
+ResNet-152 + ObjectNet,Vision,Massachusetts Institute of Technology (MIT),United States of America,6/9/19,2393,38000000,50000,,,Unreleased
+UDSMProt,Biology,Fraunhofer Heinrich Hertz Institute,Germany,4/9/19,,28303800,,30,,Open access (unrestricted)
+"Mogrifier (d2, MoS2, MC) + dynamic eval",Language,"DeepMind,University of Oxford","United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland",4/9/19,109,35000000,,145,,Unreleased
+EN^2AS with performance reward,Language,"Beijing Institute of Technology,University of Technology Sydney,Monash University","China,Australia,Australia",22/7/19,1,23000000,,,,Unreleased
+Pluribus,Games,Facebook AI Research,United States of America,11/7/19,645,,,,,Unreleased
+BigBiGAN,"Vision,Image generation",Google,United States of America,4/7/19,519,86000000,,,,Open access (unrestricted)
+RoBERTa Large,Language,"Facebook,University of Washington","United States of America,United States of America",1/7/19,20965,355000000,32000000000,,120,Open access (unrestricted)
+Tensorized Transformer (257M),Language,"Tianjin University,Microsoft Research Asia,Beijing Institute of Technology","China,China,China",24/6/19,149,257000000,,30,,Unreleased
+Walking Minotaur robot,Robotics,"UC Berkeley,Google Brain","United States of America,United States of America",19/6/19,398,,,,,Unreleased
+LaNet-L (CIFAR-10),Vision,"Brown University,Facebook","United States of America,United States of America",17/6/19,44,44100000,60000,600,,Open access (non-commercial)
+PG-SWGAN,Image generation,ETH Zurich,Switzerland,15/6/19,115,,,,,Unreleased
+FixRes ResNeXt-101 WSL,Vision,Facebook AI,United States of America,14/6/19,405,829000000,940000000,,,Open access (non-commercial)
+Char-CNN-BiLSTM,Language,Capital One,United States of America,13/6/19,2,,,,,Unreleased
+AWD-LSTM + MoS + Partial Shuffled,Language,University of Texas at Austin,United States of America,10/6/19,110,35000000,,750,,Open access (non-commercial)
+Transformer-XL Large + Phrase Induction,Language,"Massachusetts Institute of Technology (MIT),University of Illinois Urbana-Champaign (UIUC)","United States of America,United States of America",4/6/19,12,257000000,,1,,Unreleased
+AMDIM,"Vision,Image generation",Microsoft Research,United States of America,3/6/19,1348,626000000,,,,Open access (unrestricted)
+XLNet,Language,"Carnegie Mellon University (CMU),Google Brain","United States of America,United States of America",1/6/19,7672,340000000,,,,Open access (unrestricted)
+XLM,Language,Facebook,United States of America,1/6/19,2547,665000000,,,,Open access (non-commercial)
+DLRM-2020,Recommendation,Facebook AI,United States of America,31/5/19,629,100000000000,,,,Unreleased
+MnasNet-A3,Vision,Google,United States of America,29/5/19,2757,5200000,1280000,,108,Open access (unrestricted)
+MnasNet-A1 + SSDLite,Vision,Google,United States of America,29/5/19,2757,4900000,118000,,108,Open access (unrestricted)
+EfficientNet-L2,Vision,Google,United States of America,28/5/19,14942,480000000,,,,Open access (unrestricted)
+CPC v2,"Vision,Image generation","DeepMind,UC Berkeley","United Kingdom of Great Britain and Northern Ireland,United States of America",22/5/19,491,303000000,,,,Unreleased
+AWD-LSTM-DRILL + dynamic evaluation† (WT2),Language,IDIAP,Switzerland,14/5/19,7,34000000,,1000,,Open access (unrestricted)
+ResNeXt-101 Billion-scale,Vision,Facebook AI,United States of America,2/5/19,432,193000000,,,,Open access (non-commercial)
+ResNet-50 Billion-scale,Vision,Facebook AI,United States of America,2/5/19,432,25000000,1090000000,,,Open access (non-commercial)
+Neuro-Symbolic Concept Learner,"Vision,Language","Massachusetts Institute of Technology (MIT),Tsinghua University,MIT-IBM Watson AI Lab,DeepMind","United States of America,China,United States of America,United Kingdom of Great Britain and Northern Ireland",26/4/19,695,,,,,Unreleased
+DANet,Vision,Chinese Academy of Sciences,China,21/4/19,4547,,,,,Open access (unrestricted)
+BERT-Large-CAS (PTB+WT2+WT103),Language,Amazon,United States of America,20/4/19,110,395000000,,50,,Unreleased
+SpecAugment,Language,Google Brain,United States of America,18/4/19,3144,,,,,Unreleased
+Transformer-XL + RMS dynamic eval,Language,University of Edinburgh,United Kingdom of Great Britain and Northern Ireland,17/4/19,40,257000000,,,,Unreleased
+WeNet (Penn Treebank),Language,Amazon,United States of America,8/4/19,5,23000000,,6000,24,Unreleased
+True-Regularization+Finetune+Dynamic-Eval,Language,"Mobvoi,Williams College","China,United States of America",8/4/19,24,7000000,,,,Unreleased
+Cross-lingual alignment,Language,"Tel Aviv University,Massachusetts Institute of Technology (MIT)","Israel,United States of America",4/4/19,196,,,,,Open access (unrestricted)
+FAIRSEQ Adaptive Inputs,Language,"Facebook AI Research,Google Brain","United States of America,United States of America",1/4/19,2945,247000000,,,,Unreleased
+SciBERT,Language,Allen Institute for AI,United States of America,26/3/19,2808,110000000,3300000000,,168,Open access (unrestricted)
+NMT Transformer 437M,Language,"Google,Bar-Ilan University","United States of America,Israel",28/2/19,520,437700000,,,,Unreleased
+KataGo,Games,Jane Street,Multinational,27/2/19,82,2500000,241000000,,456,Open access (unrestricted)
+ProxylessNAS,Vision,Massachusetts Institute of Technology (MIT),United States of America,23/2/19,1806,,1280000,,,Open access (unrestricted)
+GPT-2 (1.5B),Language,OpenAI,United States of America,14/2/19,18461,1500000000,8000000000,20,,Open access (unrestricted)
+Hanabi 4 player,Games,"DeepMind,University of Oxford,Carnegie Mellon University (CMU),Google Brain","United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,United States of America,United States of America",1/2/19,229,764000,,,,Unreleased
+MT-DNN,Language,Microsoft,United States of America,31/1/19,1217,330000000,,,,Open access (unrestricted)
+Transformer-XL (257M),Language,"Carnegie Mellon University (CMU),Google Brain","United States of America,United States of America",9/1/19,3354,257000000,,,,Open access (unrestricted)
+Decoupled weight decay regularization,Vision,University of Freiburg,Germany,4/1/19,2061,36500000,50000,,,Open access (unrestricted)
+Transformer ELMo,Language,"Allen Institute for AI,University of Washington","United States of America,United States of America",1/1/19,396,56000000,,,,Unreleased
+GPipe (Transformer),Language,Google,United States of America,16/11/18,1218,6000000000,20000000000,,,
+GPipe (Amoeba),Vision,Google,United States of America,16/11/18,1218,557000000,1281167,,,
+Multi-cell LSTM,Language,University of Hyderabad,India,15/11/18,6,7200000,,50,,Unreleased
+Fine-tuned-AWD-LSTM-DOC(fin),Language,Samsung R&D Institute Russia,Russia,12/11/18,2,35000000,1066666667,15,,Unreleased
+Mesh-TensorFlow Transformer 4.9B (language),Language,Google Brain,United States of America,5/11/18,357,4900000000,6333333333,10,13,Unreleased
+Mesh-TensorFlow Transformer 2.9B (translation),Language,Google Brain,United States of America,5/11/18,357,2900000000,1800000000,10,22,Unreleased
+MemoReader,Language,"Samsung,Korea University","Korea (Republic of),Korea (Republic of)",31/10/18,17,,,,,Unreleased
+TrellisNet,Language,"Carnegie Mellon University (CMU),Bosch Center for Artificial Intelligence,Intel Labs","United States of America,Germany,Multinational",15/10/18,138,180000000,,25,,Unreleased
+MetaMimic,Robotics,Google,United States of America,11/10/18,26,22000000,,,,
+BERT-Large,Language,Google,United States of America,11/10/18,81681,340000000,3300000000,40,96,Open access (unrestricted)
+Transformer (Adaptive Input Embeddings) WT103,Language,Facebook AI Research,United States of America,28/9/18,360,247000000,100000000,,67,Open access (unrestricted)
+BigGAN-deep 512x512,Image generation,"Heriot-Watt University,DeepMind","United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland",28/9/18,4832,112694781,292000000,,48,Open access (unrestricted)
+LSTM+NeuralCache,Language,"KU Leuven,ESAT - PSI,Apple","Belgium,Belgium,United States of America",24/9/18,3,2100000,,39,,Unreleased
+"AWD-LSTM-MoS + dynamic evaluation (WT2, 2018)",Language,"Peking University,Microsoft Research Asia","China,China",18/9/18,152,35000000,,,,Unreleased
+Transformer + Simple Recurrent Unit,Language,"ASAPP,Cornell University,Google,Princeton University","United States of America,United States of America,United States of America,United States of America",17/9/18,293,90000000,,40,,Unreleased
+ESRGAN,"Vision,Image generation","Chinese University of Hong Kong (CUHK),Chinese Academy of Sciences,Nanyang Technological University","Hong Kong,China,Singapore",1/9/18,3206,,,,,
+(ensemble): AWD-LSTM-DOC (fin) × 5 (WT2),Language,"NTT Communication Science Laboratories,Tohoku University","Japan,Japan",30/8/18,36,185000000,,300,,Open access (unrestricted)
+Big Transformer for Back-Translation,Language,"Facebook AI Research,Google Brain","United States of America,United States of America",28/8/18,1155,,3390000000,,27.666,Open access (unrestricted)
+AWD-LSTM-MoS+PDR + dynamic evaluation (WT2),Language,IBM,United States of America,14/8/18,6,35000000,,,,Unreleased
+Big-Little Net (speech),Speech,IBM,United States of America,10/7/18,90,3320000,27360000,16,,Open access (unrestricted)
+Big-Little Net,Vision,IBM,United States of America,10/7/18,90,77360000,1280000,110,,Open access (unrestricted)
+RCAN,"Image generation,Vision",Northeastern University,United States of America,8/7/18,3821,,,,,
+Population-based DRL,Games,DeepMind,United Kingdom of Great Britain and Northern Ireland,3/7/18,672,122000000,,,,Unreleased
+FTW,Games,DeepMind,United Kingdom of Great Britain and Northern Ireland,3/7/18,672,126001330,,,,Unreleased
+ShuffleNet v2,Vision,"Tsinghua University,Megvii Inc","China,China",30/6/18,4289,2280000,,,,
+QT-Opt,"Robotics,Vision","Google Brain,UC Berkeley","United States of America,United States of America",27/6/18,1442,1200000,5984870,80,104.2,Unreleased
+DARTS,Language,"DeepMind,Carnegie Mellon University (CMU)","United Kingdom of Great Britain and Northern Ireland,United States of America",24/6/18,3991,33000000,,300,,Unreleased
+MobileNetV2,Vision,Google,United States of America,18/6/18,16546,3400000,,,,
+Relational Memory Core,Language,"DeepMind,University College London (UCL)","United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland",5/6/18,235,,,,,Unreleased
+GPT-1,Language,OpenAI,United States of America,1/6/18,9710,117000000,1000000000,,720,Open access (unrestricted)
+aLSTM(depth-2)+RecurrentPolicy (WT2),Language,"University of Manchester,Alan Turing Institute","United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland",22/5/18,12,32000000,,190,,Unreleased
+Dropout-LSTM+Noise(Bernoulli) (WT2),Language,"Columbia University,New York University (NYU),Princeton University","United States of America,United States of America,United States of America",3/5/18,26,51000000,,200,,Unreleased
+ResNeXt-101 32x48d,Vision,Facebook,United States of America,2/5/18,1287,829000000,9525000000,,496,Open access (non-commercial)
+Diffractive Deep Neural Network,Vision,University of California Los Angeles (UCLA),United States of America,14/4/18,1464,8000000000,55000,,,
+YOLOv3,Vision,University of Washington,United States of America,8/4/18,18916,56933216,1281167,,,Unreleased
+"LSTM (Hebbian, Cache, MbPA)",Language,"DeepMind,University College London (UCL)","United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland",27/3/18,46,45200000,4300000000,90,144,Unreleased
+4 layer QRNN (h=2500),Language,Salesforce Research,United States of America,22/3/18,183,26000000,,14,,Unreleased
+Rotation,"Image generation,Vision",École des Ponts ParisTech,France,21/3/18,3048,86000000,,,,
+LSTM (2018),Language,"Intel Labs,Carnegie Mellon University (CMU)","Multinational,United States of America",4/3/18,4024,13000000,,,,Open access (unrestricted)
+Chinese - English translation,Language,Microsoft,United States of America,1/3/18,588,,,,,
+Residual Dense Network,"Vision,Image generation","Northeastern University,University of Rochester","United States of America,United States of America",24/2/18,2997,,,,,
+Spectrally Normalized GAN,Image generation,"Preferred Networks Inc,Ritsumeikan University,National Institute of Informatics","Japan,Japan,Japan",16/2/18,4122,,,,,
+TCN (P-MNIST),Language,"Carnegie Mellon University (CMU),Intel Labs","United States of America,Multinational",15/2/18,64,42000,,,,
+ENAS,Language,"Google Brain,Carnegie Mellon University (CMU),Stanford University","United States of America,United States of America,United States of America",9/2/18,2760,24000000,,150,,Unreleased
+DeepLabV3+,Vision,Google,United States of America,7/2/18,11350,,,,,
+IMPALA,Games,DeepMind,United Kingdom of Great Britain and Northern Ireland,5/2/18,1455,1600000,240000000000,,100,Unreleased
+AmoebaNet-A (F=448),Vision,Google Brain,United States of America,5/2/18,2793,469000000,1280000,,168,Unreleased
+AmoebaNet-A (F=190),Vision,Google Brain,United States of America,5/2/18,2793,87000000,,,,
+QRNN,Language,Salesforce Research,United States of America,1/2/18,4,135000000,,14,,Unreleased
+ELMo,Language,"University of Washington,Allen Institute for AI","United States of America,United States of America",1/2/18,11055,94000000,,,,
+ULM-FiT,Language,"University of San Francisco,Insight Centre NUI Galway,Fast.ai","United States of America,Ireland",18/1/18,1940,441000000,103000000,,,Open access (unrestricted)
+Refined Part Pooling,Vision,"Tsinghua University,University of Technology Sydney,University of Texas at San Antonio","China,Australia,United States of America",9/1/18,2014,,,,,
+Tacotron 2,Speech,"Google,UC Berkeley","United States of America,United States of America",19/12/17,2886,,340000,,,
+AlphaZero,Games,DeepMind,United Kingdom of Great Britain and Northern Ireland,5/12/17,1562,,700000,,24,Unreleased
+2-layer-LSTM+Deep-Gradient-Compression,Language,"Tsinghua University,Stanford University,NVIDIA","China,United States of America,United States of America",5/12/17,1280,6020000,,40,,Unreleased
+PNASNet-5,Vision,"Johns Hopkins University,Google AI,Stanford University","United States of America,Multinational,United States of America",2/12/17,1896,,1280000,,,
+PNAS-net,Vision,"Johns Hopkins University,Google AI,Stanford University","United States of America,Multinational,United States of America",2/12/17,1896,86000000,,,,
+TriNet,Video,"Visual Computing Institute,RWTH Aachen University","Germany,Germany",21/11/17,3000,,,,,
+"AWD-LSTM-MoS + dynamic evaluation (WT2, 2017)",Language,Carnegie Mellon University (CMU),United States of America,10/11/17,358,35000000,,1000,,Unreleased
+Fraternal dropout + AWD-LSTM 3-layer (WT2),Language,"Jagiellonian University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Université de Montréal","Poland,Canada,Canada",31/10/17,55,34000000,,520,,Unreleased
+DCN+,Language,Salesforce Research,United States of America,31/10/17,121,,107785,,,Unreleased
+S-Norm,Language,"University of Washington,Allen Institute for AI","United States of America,United States of America",29/10/17,453,,2000000000,1,,
+PhraseCond,Language,"Carnegie Mellon University (CMU),University of Pittsburgh","United States of America,United States of America",28/10/17,22,,90000,,,
+ProgressiveGAN,Vision,NVIDIA,United States of America,27/10/17,6666,,,,,
+CapsNet (MultiMNIST),Vision,Google Brain,United States of America,26/10/17,4277,11360000,,,,
+CapsNet (MNIST),Vision,Google Brain,United States of America,26/10/17,4277,8200000,60000,,,
+LRSO-GAN,Vision,University of Technology Sydney,Australia,22/10/17,1783,,,,,
+AlphaGo Zero,Games,DeepMind,United Kingdom of Great Britain and Northern Ireland,18/10/17,8692,46400244,5800000000,,480,Unreleased
+AWD-LSTM+WT+Cache+IOG (WT2),Language,NTT Communication Science Laboratories,Japan,26/9/17,7,53000000,,5,,Unreleased
+LSTM + dynamic eval,Language,University of Edinburgh,United Kingdom of Great Britain and Northern Ireland,21/9/17,130,50000000,,,,Unreleased
+ISS,Language,"Duke University,Microsoft","United States of America,United States of America",15/9/17,146,11100000,,55,,Unreleased
+PyramidNet,Vision,Korea Advanced Institute of Science and Technology (KAIST),Korea (Republic of),6/9/17,718,26000000,50000,300,,Open access (unrestricted)
+SENet (ImageNet),Vision,"Chinese Academy of Sciences,University of Oxford","China,United Kingdom of Great Britain and Northern Ireland",5/9/17,22696,28100000,,,,
+GL-LWGC-AWD-MoS-LSTM + dynamic evaluation (WT2),Language,Ben-Gurion University of the Negev,United States of America,29/8/17,4,38000000,,1000,,Unreleased
+Adversarial Joint Adaptation Network (ResNet),Vision,"Tsinghua University,UC Berkeley","China,United States of America",17/8/17,2482,60000000,4652,,,
+NeuMF (Pinterest),Recommendation,"Shandong University,Texas A&M,National University of Singapore,Columbia University","China,United States of America,Singapore,United States of America",16/8/17,5294,,,,,
+Cutout-regularized net,Vision,"University of Guelph,Vector Institute,CIFAR AI Research","Canada,Canada,Canada",15/8/17,3375,,,,,
+EI-REHN-1000D,Language,Korea Advanced Institute of Science and Technology (KAIST),Korea (Republic of),14/8/17,6,19000000,,100,,Unreleased
+OpenAI TI7 DOTA 1v1,Games,OpenAI,United States of America,11/8/17,0,,,,,
+RetinaNet-R101,Vision,Facebook AI Research,United States of America,7/8/17,16437,53000000,135000,,35,
+RetinaNet-R50,Vision,Facebook AI Research,United States of America,7/8/17,16437,34000000,,,,
+AWD-LSTM - 3-layer LSTM (tied) + continuous cache pointer (WT2),Language,Salesforce Research,United States of America,7/8/17,1176,33000000,,750,,Unreleased
+GSM,Language,"Peking University,Microsoft Research","China,United States of America",30/7/17,806,,4000000,,,
+ConvS2S (ensemble of 8 models),Language,Meta AI,United States of America,25/7/17,,,46600000,,,
+PSPNet,Vision,Chinese University of Hong Kong (CUHK),Hong Kong,21/7/17,10709,,,,,
+NASNet-A,Vision,Google Brain,United States of America,21/7/17,5251,89000000,,,,
+AWD-LSTM,Language,"DeepMind,University of Oxford","United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland",18/7/17,555,24000000,,,,Unreleased
+JFT,Vision,"Google Research,Carnegie Mellon University (CMU)","Multinational,United States of America",10/7/17,2165,,300000000,4,1440,
+ShuffleNet v1,Vision,Megvii Inc,China,3/7/17,6041,2430000,,,,
+NoisyNet-Dueling,Games,DeepMind,United Kingdom of Great Britain and Northern Ireland,30/6/17,840,,,,,Unreleased
+DeepLabV3,Vision,Google,United States of America,17/6/17,7579,,,,,
+HRA,Games,"Maluuba,Microsoft","Canada,United States of America",13/6/17,242,,,,,
+Transformer,Language,"Google Research,Google Brain","Multinational,United States of America",12/6/17,104993,213000000,1866666667,,84,Unreleased
+EDSR,"Vision,Image generation",Seoul National University,Korea (Republic of),10/6/17,5251,,,,,
+Reading Twice for NLU,Language,DeepMind,United Kingdom of Great Britain and Northern Ireland,8/6/17,62,,,,,
+PointNet++,3D modeling,Stanford University,United States of America,7/6/17,9351,,,,,
+Inflated 3D ConvNet,3D modeling,"DeepMind,University of Oxford","United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland",1/6/17,7197,,,,,
+SRGAN,"Vision,Image generation",Twitter,United States of America,25/5/17,11032,,,,,Unreleased
+Mnemonic Reader,Language,"Fudan University,Microsoft Research","China,United States of America",8/5/17,217,,107785,,,
+DeepLab (2017),Vision,"Johns Hopkins University,Google,University College London (UCL)","United States of America,United States of America,United Kingdom of Great Britain and Northern Ireland",27/4/17,16302,,,,,
+MobileNet,Vision,Google,United States of America,17/4/17,18483,4200000,,,,
+WGAN-GP,Image generation,"Courant Institute of Mathematical Sciences,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms)","United States of America,Canada",31/3/17,8758,,,,,
+Mask R-CNN,Vision,Facebook AI Research,United States of America,30/3/17,24114,,,,,
+Prototypical networks,Vision,"University of Toronto,Twitter","Canada,United States of America",15/3/17,7165,,,,,
+DnCNN,"Vision,Image generation","Harbin Institute of Technology,Hong Kong Polytechnic University,ULSee Inc.,Xi’an Jiaotong University","China,Hong Kong,China,China",1/2/17,6285,,,,,
+MoE-Multi,Language,"Jagiellonian University,Google Brain","Poland,United States of America",23/1/17,1914,8700000000,133000000000,,288,Unreleased
+OR-WideResNet,Vision,"Duke University,University of Chinese Academy of Sciences","United States of America,China",7/1/17,285,18200000,50000,,,
+DeepStack,Games,"University of Alberta,Charles University,Czech Technical University","Canada,Czechia,Czechia",6/1/17,846,2500000,10000000,,218,
+Libratus,Games,Carnegie Mellon University (CMU),United States of America,1/1/17,97,,,,,Unreleased
+AlphaGo Master,Games,DeepMind,United Kingdom of Great Britain and Northern Ireland,1/1/17,8692,,,,72,Unreleased
+YOLOv2,Vision,"University of Washington,Allen Institute for AI","United States of America,United States of America",25/12/16,14209,51000000,,,,Open access (non-commercial)
+GCNN-14,Language,Facebook AI Research,United States of America,23/12/16,2176,,,35,,Unreleased
+Diabetic Retinopathy Detection Net,Vision,"UT Austin,UC Berkeley,Google","United States of America,United States of America,United States of America",13/12/16,3540,,,,,
+GAN-Advancer,Vision,OpenAI,United States of America,5/12/16,8234,,,,,Unreleased
+PointNet,3D modeling,Stanford University,United States of America,2/12/16,12382,,,,,
+Elastic weight consolidation,"Vision,Games",DeepMind,United Kingdom of Great Britain and Northern Ireland,2/12/16,6162,,,,,
+Image-to-image cGAN,"Vision,Image generation",UC Berkeley,United States of America,21/11/16,17968,,,,,
+RefineNet,Vision,"University of Adelaide,Australian Centre for Robotic Vision","Australia,Australia",20/11/16,2715,,,,,
+PolyNet,Vision,Chinese University of Hong Kong (CUHK),Hong Kong,17/11/16,282,92000000,1280000,,,
+ResNeXt-50,Vision,"University of California San Diego,Facebook","United States of America,United States of America",16/11/16,9444,25000000,,,,
+Deeply-recursive ConvNet,"Vision,Image generation",Seoul National University,Korea (Republic of),11/11/16,2381,,,,,
+NASv3 (CIFAR-10),Vision,Google Brain,United States of America,5/11/16,5051,37400000,50000,,,
+NAS with base 8 and shared embeddings,Language,Google Brain,United States of America,5/11/16,5051,54000000,,35,,Unreleased
+BIDAF,Language,"University of Washington,Allen Institute for AI","United States of America,United States of America",5/11/16,2246,2600000,47160000,8,60,Open access (unrestricted)
+VD-LSTM+REAL Large,Language,"Salesforce Research,Stanford University","United States of America,United States of America",4/11/16,397,51000000,,75,,Unreleased
+SPIDER2,Biology,"Griffith University,University of Iowa,Dezhou University","Australia,United States of America,China",28/10/16,,409536,13893600,120,,Open access (non-commercial)
+Differentiable neural computer,Language,Google DeepMind,Multinational,12/10/16,1504,,,,,
+Xception,Vision,Google,United States of America,7/10/16,12799,22855952,350000000,,720,
+Zoneout + Variational LSTM (WT2),Language,"MetaMind Inc,Salesforce","United States of America,United States of America",26/9/16,2204,21000000,,64,,Unreleased
+Pointer Sentinel-LSTM (medium),Language,"MetaMind Inc,Salesforce","United States of America,United States of America",26/9/16,2204,21000000,,64,,Unreleased
+GNMT,Language,Google,United States of America,26/9/16,6439,278000000,389000000000,1,,Hosted access (no API)
+Wide Residual Network,Vision,Université Paris-Est,France,19/9/16,7343,,,,,
+TSN,Video,"ETH Zurich,Shenzhen Institute of Advanced Technology,Chinese University of Hong Kong (CUHK)","Switzerland,China,Hong Kong",17/9/16,3570,,,,,
+Stacked hourglass network,Vision,University of Michigan,United States of America,17/9/16,4758,,,,,
+ResNet-1001,Vision,Microsoft,United States of America,17/9/16,9514,10200000,,,,
+ResNet-200,Vision,Microsoft Research Asia,China,17/9/16,9514,,1281167,,500,Unreleased
+MS-CNN,Vision,"IBM,University of California San Diego","United States of America,United States of America",17/9/16,1451,,,,,
+Youtube recommendation model,Recommendation,Google,United States of America,15/9/16,2851,,,,,
+WaveNet,Speech,Google DeepMind,Multinational,12/9/16,6843,,,,,
+Multi-task Cascaded CNN,Vision,"Chinese Academy of Sciences,Chinese University of Hong Kong (CUHK)","China,Hong Kong",26/8/16,4556,,,,,
+DenseNet-264,Vision,"Tsinghua University,Facebook AI Research,Cornell University","China,United States of America,United States of America",25/8/16,33176,34000000,,,,
+SimpleNet,Vision,"Sensifai,Islamic Azad University,Technicolor R&I,Institute for Research in Fundamental Sciences (IPM)","Belgium,Iran (Islamic Republic of),France,Iran (Islamic Republic of)",22/8/16,117,5480000,,,,
+Character-enriched word2vec,Language,Facebook AI Research,United States of America,15/7/16,9330,,,,,
+VD-RHN,Language,"ETH Zurich,IDSIA","Switzerland,Switzerland",12/7/16,493,32000000,,20,,Unreleased
+fastText,Language,Facebook AI Research,United States of America,6/7/16,4315,,,,,
+Wide & Deep,Recommendation,Google,United States of America,24/6/16,3320,,,,,
+R-FCN,Vision,"Tsinghua University,Microsoft Research","China,United States of America",21/6/16,5372,,94427,,,
+DMN,Language,Salesforce,United States of America,20/6/16,1187,,,,,
+Spatiotemporal fusion ConvNet,Video,"Graz University of Technology,University of Oxford","Austria,United Kingdom of Great Britain and Northern Ireland",1/6/16,2521,,97200,,,
+Part-of-sentence tagging model,Language,Carnegie Mellon University (CMU),United States of America,29/5/16,3193,,912344,50,12,
+Named Entity Recognition model,Language,Carnegie Mellon University (CMU),United States of America,29/5/16,3100,,204567,50,8,
+Gated HORNN (3rd order),Language,York University,Canada,30/4/16,77,8970000,,,,Unreleased
+Symmetric Residual Encoder-Decoder Net,"Vision,Image generation","Nanjing University,University of Adelaide","China,Australia",30/3/16,1184,,,,,
+Binarized Neural Network (MNIST),Vision,"Technion - Israel Institute of Technology,Columbia University,University of Montreal / Université de Montréal","Israel,United States of America,Canada",17/3/16,3299,37000000,60000,1000,,
+SqueezeNet,Vision,"DeepScale,UC Berkeley,Stanford University","United States of America,United States of America,United States of America",24/2/16,6892,1200000,,,,
+Inceptionv4,Vision,Google,United States of America,23/2/16,13047,43000000,,,,
+Inception-ResNet-V2,Vision,Google,United States of America,23/2/16,13047,56000000,,,,
+A3C FF hs,Games,"Google,University of Montreal / Université de Montréal","United States of America,Canada",4/2/16,8174,,,,,
+Convolutional Pose Machines,Vision,Carnegie Mellon University (CMU),United States of America,30/1/16,2641,,,,,
+AlphaGo Lee,Games,DeepMind,United Kingdom of Great Britain and Northern Ireland,27/1/16,15882,,29400000,,696,Unreleased
+"Variational (untied weights, MC) LSTM (Large)",Language,University of Cambridge,United Kingdom of Great Britain and Northern Ireland,16/12/15,1838,66000000,,16,,Unreleased
+Advantage Learning,Games,Google DeepMind,Multinational,15/12/15,149,,,,,
+BPL,Image generation,"University of Toronto,New York University (NYU),Massachusetts Institute of Technology (MIT)","Canada,United States of America,United States of America",11/12/15,2862,,,,,
+ResNet-152 (ImageNet),Vision,Microsoft,United States of America,10/12/15,172714,60200000,1280000,120,,
+ResNet-110 (CIFAR-10),Vision,Microsoft,United States of America,10/12/15,172714,1700000,,,,
+SSD,Vision,,,8/12/15,39468,,115000,,,Open access (unrestricted)
+DeepSpeech2 (English),Speech,Baidu Research - Silicon Valley AI Lab,United States of America,8/12/15,2841,38000000,163339200,,120,
+Inception v3,Vision,"Google,University College London (UCL)","United States of America,United Kingdom of Great Britain and Northern Ireland",2/12/15,25057,23626728,1200000,,,
+Netflix Recommender System,Recommendation,Netflix,United States of America,1/12/15,1092,,,,,
+Multi-scale Dilated CNN,Vision,"Princeton University,Intel Labs","United States of America,Multinational",23/11/15,7906,,,,,
+AlphaGo Fan,Games,DeepMind,United Kingdom of Great Britain and Northern Ireland,1/10/15,15882,8209984,,,,Unreleased
+Deep Deterministic Policy Gradients,Robotics,Google DeepMind,Multinational,9/9/15,11930,,,,,
+BPE,Language,University of Edinburgh,United Kingdom of Great Britain and Northern Ireland,31/8/15,7139,,37500000,,,
+LSTM-Char-Large,Language,"Harvard University,New York University (NYU)","United States of America,United States of America",26/8/15,2033,19000000,,25,,Unreleased
+"Listen, Attend and Spell",Speech,"Google,Carnegie Mellon University (CMU)","United States of America,United States of America",20/8/15,2153,,,,,Unreleased
+Search-Proven Best LSTM,Language,Google,United States of America,6/7/15,2207,20000000,,30,,Unreleased
+BatchNorm,Vision,Google,United States of America,15/6/15,40938,13600000,,,,
+YOLO,Vision,"University of Washington,Allen Institute for AI,Facebook AI Research","United States of America,United States of America,United States of America",8/6/15,31783,271684800,,,,
+Faster R-CNN,Vision,Microsoft Research,United States of America,4/6/15,55711,,,,,Open access (unrestricted)
+Trajectory-pooled conv nets,Video,"Chinese University of Hong Kong (CUHK),Chinese Academy of Sciences","Hong Kong,China",19/5/15,3786,9106245,,,,
+Deep LSTM video classifier,Video,"University of Texas at Austin,Google","United States of America,United States of America",1/5/15,2281,,,,,
+Fast R-CNN,Vision,Microsoft Research,United States of America,30/4/15,22895,,,,,
+genCNN + dyn eval,Language,"Chinese Academy of Sciences,Huawei Noah's Ark Lab,Dublin City University","China,China,Ireland",17/3/15,33,8000000,,,,Unreleased
+Constituency-Tree LSTM,Language,"MetaMind Inc,Stanford University","United States of America,United States of America",28/2/15,3040,205190,,,,
+DQN-2015,Games,Google,United States of America,25/2/15,25077,1693362,50000000,,,
+TRPO,Games,UC Berkeley,United States of America,19/2/15,8305,33500,,,30,Unreleased
+CRF-RNN,Vision,"University of Oxford,Stanford University,Baidu","United Kingdom of Great Britain and Northern Ireland,United States of America,China",11/2/15,2661,,,,,
+"MSRA (C, PReLU)",Vision,Microsoft Research,United States of America,6/2/15,20078,87048800,1280000,,588,
+DeepLab,Vision,"Google,University of California Los Angeles (UCLA)","United States of America,United States of America",22/12/14,4617,,,,,
+ADAM (CIFAR-10),Vision,"University of Amsterdam,OpenAI,University of Toronto","Netherlands,United States of America,Canada",22/12/14,139989,,,,,
+Fractional Max-Pooling,Vision,University of Warwick,United Kingdom of Great Britain and Northern Ireland,18/12/14,672,27000000,,250,18,
+NTM,"Other,Language",Google DeepMind,Multinational,10/12/14,2228,,,,,
+SNM-skip,Language,Google,United States of America,3/12/14,14,62000000000,1000000000,,,
+Cascaded LNet-ANet,Vision,Chinese University of Hong Kong (CUHK),Hong Kong,28/11/14,7560,,,,,
+Fully Convolutional Networks,Vision,UC Berkeley,United States of America,14/11/14,35267,,,,,
+SC-NLM,"Multimodal,Vision,Language",University of Toronto,Canada,10/11/14,,,600000,,,
+LRCN,Video,"UT Austin,University of Massachusetts Lowell,UC Berkeley","United States of America,United States of America,United States of America",7/11/14,5836,142552000,40000,,,
+Spatially-Sparse CNN,Vision,University of Warwick,United Kingdom of Great Britain and Northern Ireland,23/9/14,260,,,,,
+Deeply-supervised nets,Vision,Microsoft Research,United States of America,18/9/14,2509,,870000,,,
+GoogLeNet / InceptionV1,Vision,"Google,University of Michigan,University of North Carolina","United States of America,United States of America,United States of America",17/9/14,41106,6797700,1200000,,,
+Seq2Seq LSTM,Language,Google,United States of America,10/9/14,19454,1920000000,652000000,,240,
+Large regularized LSTM,Language,"New York University (NYU),Google Brain","United States of America,United States of America",8/9/14,3224,66000000,,55,,Unreleased
+VGG19,Vision,University of Oxford,United Kingdom of Great Britain and Northern Ireland,4/9/14,93036,144000000,1300000,,,
+VGG16,Vision,University of Oxford,United Kingdom of Great Britain and Northern Ireland,4/9/14,93036,138000000,1300000,74,504,
+RNNsearch-50*,Language,"Jacobs University Bremen,University of Montreal / Université de Montréal","Germany,Canada",1/9/14,25864,,348000000,,,
+SmooCT,Games,University College London (UCL),United Kingdom of Great Britain and Northern Ireland,1/7/14,16,,12000000000,,48,
+Multiresolution CNN,Video,"Google,Stanford University","United States of America,United States of America",23/6/14,6224,126125568,50000000,,,
+DeepFace,Vision,"Tel Aviv University,Facebook","Israel,United States of America",23/6/14,5971,,,,,
+RNN-WER,Speech,"DeepMind,University of Toronto","United Kingdom of Great Britain and Northern Ireland,Canada",22/6/14,2805,26500000,1100000,,,
+Fragment embedding,Multimodal,Stanford University,United States of America,21/6/14,,144496000,150000,20,,
+SPPNet,Vision,"Microsoft,Xi’an Jiaotong University,University of Science and Technology of China","United States of America,China,China",18/6/14,10239,,1280000,,672,
+GANs,Image generation,University of Montreal / Université de Montréal,Canada,10/6/14,36870,,60000,,,
+Two-stream ConvNets for action recognition,Video,University of Oxford,United Kingdom of Great Britain and Northern Ireland,9/6/14,7169,,,,,
+GRUs,Language,"University of Montreal / Université de Montréal,Jacobs University,University of Maine","Canada,Germany,United States of America",3/6/14,21611,,,,,
+Dropout: SVHN,Vision,University of Toronto,Canada,1/6/14,37539,47795232,600000,,,Unreleased
+AdaRNN,Language,Beihang University,China,1/6/14,,13040,6248,,,
+Paragraph Vector,Language,Google,United States of America,14/5/14,,32000000,75000,,,
+HyperNEAT,Games,University of Texas at Austin,United States of America,5/3/14,195,239712,,,,
+SPN-4+KN5,Language,"Singapore University of Technology & Design,DSO National Laboratories","Singapore,Singapore",1/1/14,102,5000000,,,,Unreleased
+GloVe (32B),Language,Stanford University,United States of America,1/1/14,30406,120000000,42000000000,,,
+GloVe (6B),Language,Stanford University,United States of America,1/1/14,30406,120000000,6000000000,,,
+OverFeat,Vision,New York University (NYU),United States of America,21/12/13,5148,,,,,
+Image generation,Vision,University of Amsterdam,Netherlands,20/12/13,21760,,60000,,,
+DOT(S)-RNN,Language,"Aalto University,University of Montreal / Université de Montréal","Finland,Canada",20/12/13,1255,6160000,,,,Unreleased
+DQN,Games,DeepMind,United Kingdom of Great Britain and Northern Ireland,19/12/13,11118,836096,,,,
+Network in Network,Vision,National University of Singapore,Singapore,16/12/13,6015,,,,,
+RNN for 1B words,Language,Google,United States of America,11/12/13,1205,20000000000,1000000000,,240,
+DBLSTM,Speech,University of Toronto,Canada,8/12/13,1587,29900000,,,,
+TransE,Language,"Universite de Technologie de Compiègne – CNRS,Google","France,United States of America",5/12/13,7039,942000000,17000000,,,
+DeViSE,Vision,Google,United States of America,5/12/13,,,5400000000,,,
+TensorReasoner,Language,Stanford University,United States of America,1/12/13,1915,,,,,
+Visualizing CNNs,Vision,New York University (NYU),United States of America,12/11/13,15141,,,,,
+R-CNN (T-net),Vision,UC Berkeley,United States of America,11/11/13,24408,69003872,,,,
+Word2Vec (small),Language,Google,United States of America,16/10/13,32201,207600000,692000,,,
+Word2Vec (large),Language,Google,United States of America,16/10/13,32201,692000000,33000000000,,24,
+RNTN,Language,Stanford University,United States of America,1/10/13,,,155063,,5,Unreleased
+RCTM,Language,University of Oxford,United Kingdom of Great Britain and Northern Ireland,1/10/13,,,4100000,,15,
+Mitosis,"Vision,Medicine",IDSIA,Switzerland,22/9/13,1477,37230,1000000,,24,
+RNN+weight noise+dynamic eval,Language,University of Toronto,Canada,4/8/13,4734,54000000,,14,,Unreleased
+Fisher Vector image classifier,Vision,"Universidad Nacional de Cordoba,Inteligent Systems Lab Amsterdam,University of Amsterdam,LEAR Team,INRIA,Xerox Research Centre Europe (XRCE)","Argentina,Netherlands,Netherlands,France,France,France",12/6/13,1707,,,,2,
+SemVec,Language,Microsoft Research,United States of America,9/6/13,3625,,,,,
+ReLU-Speech,Speech,"Google,University of Toronto,New York University (NYU)","United States of America,Canada,United States of America",26/5/13,,101706240,,,168,
+Multilingual DNN,Speech,Google,United States of America,26/5/13,,206899200,77580000,,672,
+Selective Search,Vision,"University of Trento,University of Amsterdam","Italy,Netherlands",2/4/13,5642,,,,,
+PreTrans-3L-250H,Speech,University of Toronto,Canada,22/3/13,8212,43000000,,,,
+Maxout Networks,Vision,University of Montreal / Université de Montréal,Canada,18/2/13,2576,,,,,
+Textual Imager,Vision,Stanford University,United States of America,16/1/13,1413,,,,,
+DistBelief NNLM,Language,Google,United States of America,16/1/13,41000,,6000000000,,336,
+DistBelief Vision,Vision,Google,United States of America,3/12/12,,1700000000,16000000,,,
+DistBelief Speech,Speech,Google,United States of America,3/12/12,,47185920,1100000000,,120,
+Bayesian automated hyperparameter tuning,Other,"University of Toronto,University of Sherbrooke,Harvard University","Canada,Canada,United States of America",2/12/12,7229,,,,,
+RNN+LDA+KN5+cache,Language,"Microsoft,Brno University of Technology","United States of America,Czechia",1/12/12,716,9000000,,,,Unreleased
+AlexNet,Vision,University of Toronto,Canada,30/9/12,112228,60000000,1200000,,132,
+LSTM-300units,Language,RWTH Aachen University,Germany,1/9/12,2503,12000000,,,,Unreleased
+Context-dependent RNN,Language,"Microsoft Research,Brno University of Technology","United States of America,Czechia",27/7/12,707,,,,,
+Unsupervised High-level Feature Learner,Vision,Google,United States of America,12/7/12,2909,1000000000,10000000,,72,
+MV-RNN,Language,Stanford University,United States of America,12/7/12,1459,3510255,,,,
+Dropout (TIMIT),Speech,University of Toronto,Canada,3/6/12,7411,48840185,41620,,,Unreleased
+Dropout (MNIST),Vision,University of Toronto,Canada,3/6/12,7411,5592010,60000,,,Unreleased
+Dropout (ImageNet),Vision,University of Toronto,Canada,3/6/12,7411,,1000000,,96,Unreleased
+Dropout (CIFAR),Vision,University of Toronto,Canada,3/6/12,7411,,60000,,1.5,Unreleased
+MCDNN (MNIST),Vision,IDSIA,Switzerland,13/2/12,4828,1994300,60000,,,
+LSTM LM,Language,RWTH Aachen University,Germany,1/1/12,,102720000,27000000,,,
+HOGWILD!,Other,University of Wisconsin Madison,United States of America,11/11/11,2214,,,,,
+NLP from scratch,Language,"NEC Laboratories,Princeton University","United States of America,United States of America",8/11/11,7640,5000000,852000000,,72,
+Domain Adaptation,Vision,University of Maryland,United States of America,6/11/11,1065,15260,4652,,,
+Adaptive Subgrad,Language,"Technion - Israel Institute of Technology,Google,UC Berkeley","Israel,United States of America,United States of America",3/10/11,9985,,,,,
+Recursive sentiment autoencoder,Language,Stanford University,United States of America,1/7/11,1477,,,,,
+Recursive Neural Network,"Vision,Language",Stanford University,United States of America,28/6/11,,,833333,,,
+Vector Space Model,Language,Stanford University,United States of America,19/6/11,,255000,75000,,,
+Cross-Lingual POS Tagger,Language,"Carnegie Mellon University (CMU),Google Research","United States of America,Multinational",19/6/11,316,,,,,
+RNN-SpeedUp,Language,"Brno University of Technology,Johns Hopkins University","Czechia,United States of America",22/5/11,1573,,697500,,,
+Deep rectifier networks,Vision,University of Montreal / Université de Montréal,Canada,13/4/11,7831,,,,,
+Optimized Single-layer Net,Vision,"University of Michigan,Stanford University","United States of America,United States of America",11/4/11,3661,,,,,
+YouTube Video Recommendation System,Recommendation,Google,United States of America,26/9/10,1150,,10000000000,,,
+RNN 500/10 + RT09 LM (NIST RT05),Speech,"Brno University of Technology,Johns Hopkins University","Czechia,United States of America",26/9/10,5763,5269500,5400000,,,
+KN5 LM + RNN 400/10 (WSJ),Speech,"Brno University of Technology,Johns Hopkins University","Czechia,United States of America",26/9/10,5763,80000000,6400000,,,
+Fisher-Boost,Vision,Xerox Research Centre Europe (XRCE),France,5/9/10,3062,,,,21.5,
+ReLU (NORB),Vision,University of Toronto,Canada,15/6/10,16685,16210006,291600,,,
+ReLU (LFW),Vision,University of Toronto,Canada,15/6/10,16685,,,,,
+Mid-level Features,Vision,"INRIA,Ecole Normale Supèrieure,New York University (NYU)","France,France,United States of America",13/6/10,1314,,,,,
+Deconvolutional Network,Vision,New York University (NYU),United States of America,13/6/10,1532,,,,,
+Word Representations,Language,"University of Montreal / Université de Montréal,University of Illinois Urbana-Champaign (UIUC)","Canada,United States of America",1/6/10,2510,,37000000,,,
+Feedforward NN,Vision,University of Montreal / Université de Montréal,Canada,13/5/10,16565,7082000,,,,
+6-layer MLP (MNIST),Vision,"IDSIA,University of Lugano,SUPSI","Switzerland,Switzerland,Switzerland",1/3/10,1264,12110000,60000,,2,
+Stacked Denoising Autoencoders,Other,"University of Montreal / Université de Montréal,University of Toronto","Canada,Canada",3/1/10,6882,,,,,
+Super-vector coding,Vision,"University of Illinois Urbana-Champaign (UIUC),NEC Laboratories,Rutgers University","United States of America,United States of America,United States of America",1/1/10,696,1025,1000000,,,
+RNN LM,Language,Johns Hopkins University,United States of America,1/1/10,5763,,6400000,1,504,
+Two Stage Feature Extraction for Object Recognition,Vision,Courant Institute of Mathematical Sciences,United States of America,29/9/09,,233506,60000,33,,Unreleased
+3D city reconstruction,3D modeling,"University of Washington,Microsoft Research,Cornell University","United States of America,United States of America,United States of America",29/9/09,2224,,,,,
+BellKor 2007,Recommendation,AT&T,United States of America,21/9/09,241,,100480507,,,
+MatrixFac for Recommenders,Recommendation,"Yahoo Research,AT&T","United States of America,United States of America",7/8/09,9160,,100480507,,,
+Pragmatic Theory solution (Netflix 2009),Recommendation,Pragmatic Theory Inc.,Canada,1/8/09,111,,100480507,,,
+BigChaos OptiBlend,Recommendation,AT&T,United States of America,1/8/09,237,,100480507,,,
+BellKor 2009,Recommendation,AT&T,United States of America,1/8/09,512,,100480507,,,
+BellKor 2008,Recommendation,AT&T,United States of America,1/8/09,162,,100480507,,,
+GPU DBNs,Other,Stanford University,United States of America,15/6/09,1032,100000000,1000000,,,
+Conv-DBN,Vision,Stanford University,United States of America,14/6/09,2964,,,,,
+Deep Boltzmann Machines,Other,University of Toronto,Canada,16/4/09,2666,,,,,
+RBM Image Classifier,Vision,University of Toronto,Canada,8/4/09,31348,80000000,2000000,,,
+Semantic Hashing,Language,University of Toronto,Canada,10/12/08,1487,2600000,310521,,,
+HLBL,Language,University of Toronto,Canada,8/12/08,,1846400,14000000,,,
+ADAPTIVE NLPM,Language,University of Toronto,Canada,8/12/08,1297,12198000,14000000,,,Unreleased
+BigChaos 2008,Recommendation,AT&T,United States of America,25/11/08,35,,100480507,,,
+Sparse digit recognition SVM,Vision,University of Lubeck,Germany,19/11/08,124,,,,,
+Boss (DARPA Urban Challenge),Driving,Carnegie Mellon University (CMU),United States of America,23/7/08,1840,,,,,
+Semi-Supervised Embedding for DL,Other,"Google,NUANCE Communications,IDIAP,University of Illinois Urbana-Champaign (UIUC)","United States of America,United States of America,Switzerland,United States of America",5/7/08,1087,,,,,
+Denoising Autoencoders,Other,University of Montreal / Université de Montréal,Canada,5/7/08,7125,,,,,
+Deep Multitask NLP Network,Language,NEC Laboratories,United States of America,5/7/08,7095,1500000,633000000,,168,
+Multiscale deformable part model,Vision,"UC Irvine,University of Chicago,Toyota Technological Institute at Chicago","United States of America,United States of America,United States of America",23/6/08,3093,,,,,
+BLSTM for handwriting (2),Vision,"University of Bern,IDSIA,Technical University of Munich","Switzerland,Switzerland,Germany",3/12/07,341,100881,,,,
+Enhanced Neighborhood-Based Filtering,Recommendation,AT&T,United States of America,28/10/07,687,,,,,
+BLSTM for handwriting (1),Vision,"University of Bern,IDSIA,Technical University of Munich","Switzerland,Switzerland,Germany",23/9/07,287,,,,,
+Regularized SVD for Collaborative Filtering,Recommendation,Warsaw University,Poland,12/8/07,1117,,100480507,,,
+Fisher Kernel GMM,Vision,Xerox,United States of America,16/7/07,1915,,30000,,2.5,
+SB-LM,Language,Google,United States of America,22/6/07,,300000000000,1800000000000,,24,
+KN-LM,Language,Google,United States of America,22/6/07,,21000000000,31000000000,,48,
+Restricted Bolzmann machines,Recommendation,University of Toronto,Canada,20/6/07,2140,,100480507,,,
+λ-WASP,Language,UT Austin,United States of America,1/6/07,383,,792,,,
+Empirical evaluation of deep architectures,Other,University of Montreal / Université de Montréal,Canada,1/6/07,1142,,,,,
+Sparse Energy-Based Model,Vision,New York University (NYU),United States of America,4/12/06,1601,,60000,,,
+Greedy layer-wise DNN training,Other,University of Montreal / Université de Montréal,Canada,4/12/06,5605,,,,,
+Local Binary Patterns for facial recognition,Vision,"University of Oulu,IEEE","Finland,Multinational",1/12/06,5816,,,,,
+Sparse Vision Encoding,Vision,Stanford University,United States of America,1/11/06,3512,,2000,,10,Unreleased
+DImensionality Reduction,Vision,University of Toronto,Canada,18/7/06,15697,3800000,70000,,,
+Deep Belief Nets,Vision,"University of Toronto,National University of Singapore","Canada,Singapore",18/7/06,16071,1600000,60000,,,
+CTC-Trained LSTM,Speech,"IDSIA,Technical University of Munich","Switzerland,Germany",25/6/06,4862,114662,41620,,,
+Spatial Pyramid Matching,Vision,"INRIA,University of Illinois Urbana-Champaign (UIUC),Ecole Normale Supèrieure","France,United States of America,France",17/6/06,9807,,,,,
+DrLIM,Other,New York University (NYU),United States of America,17/6/06,4820,37097,217470,,,
+FAST,Video,University of Cambridge,United Kingdom of Great Britain and Northern Ireland,7/5/06,5419,,,,,
+TFE SVM,Vision,"Centre de Recherche en Automatique de Nancy (CRAN),CENPARMI","France,Canada",2/2/06,365,,,,,
+Stanley (DARPA Grand Challenge 2),Driving,Stanford University,United States of America,1/1/06,2561,,,,,
+Monocular Depth Prediction,Vision,Stanford University,United States of America,5/12/05,1417,1472256,2933137,,,Unreleased
+RankNet,Search,"Microsoft Research,Microsoft","United States of America,United States of America",7/8/05,,5711,3464289,22,5.85,Unreleased
+BiLSTM for Speech,Speech,"IDSIA,Technical University of Munich","Switzerland,Germany",1/8/05,4281,152061,36960,,,
+Histograms of Oriented Gradients,Vision,INRIA,France,25/6/05,36578,,1805,,,
+ConvNet similarity metric,Vision,New York University (NYU),United States of America,20/6/05,4015,,140000,,,
+Hiero,Language,University of Maryland,United States of America,1/6/05,1487,120000000,171400000,,,
+SACHS,Biology,"Massachusetts Institute of Technology (MIT),Stanford University","United States of America,United States of America",22/4/05,1682,178,5400,,,
+Hierarchical LM,Language,,,1/1/05,,,1000000,30,13.4,
+LMICA,Vision,,,1/12/04,,4096000,100000,,,
+Invariant CNN,Vision,New York University (NYU),United States of America,27/6/04,,90575,24300,10,,
+Max-Margin Markov Networks,"Vision,Language",Stanford University,United States of America,1/3/04,1764,,600,,,
+CNN Best Practices,Vision,Microsoft Research,United States of America,6/8/03,3065,,50000,,,
+Unsupervised Scale-Invariant Learning,Vision,University of Oxford,United Kingdom of Great Britain and Northern Ireland,18/6/03,2970,451,3500,,,
+Phrase-based translation,Language,University of Southern California,United States of America,1/5/03,4270,9178890,20000000,,,
+NPLM,Language,University of Montreal / Université de Montréal,Canada,15/3/03,7627,11904264,1000000,,,
+LDA,Language,Stanford University,United States of America,2/2/03,38724,,,,,
+Statistical Shape Constellations,Vision,California Institute of Technology,United States of America,1/1/03,949,,,,,
+Maximum Entropy Models for machine translation,Language,"University of Southern California,RWTH Aachen University","United States of America,Germany",6/7/02,1413,,519523,,,
+Tagging via Viterbi Decoding,Language,AT&T,United States of America,1/6/02,2582,,,,,
+NEAT,Other,IDSIA,Switzerland,1/6/02,3392,,,,,
+Thumbs Up?,Language,"Cornell University,IBM","United States of America,United States of America",28/5/02,10656,,2053,,,
+Decision tree (classification),Vision,"Mitsubishi Electric Research Labs,Compaq CRL","United States of America,United States of America",8/12/01,23449,120000000,14460,,,
+Gradient Boosting Machine,Mathematics,Stanford University,United States of America,1/10/01,17891,,,,,
+Immediate trihead,Language,Brown University,United States of America,6/7/01,422,,,,,
+FrameNet role labeling,Language,University of Rochester,United States of America,1/9/00,2499,,50000,,,
+SVD in recommender systems,Recommendation,University of Minnesota,United States of America,14/7/00,2126,,,,,
+PoE MNIST,Vision,University College London (UCL),United Kingdom of Great Britain and Northern Ireland,1/1/00,,3925310,60000,500,,
+Neural LM,Language,University of Montreal / Université de Montréal,Canada,1/1/00,,6906980,33100000,10,,
+Perceptron for Large Margin Classification,Vision,"University of California San Diego,Shannon Laboratory,AT&T","United States of America,United States of America,United States of America",1/12/99,1731,,60000,,,
+IBM Model 4,Language,"University of Southern California,IBM,University of Pennsylvania","United States of America,United States of America,United States of America",2/7/99,1921,,800000,,,
+LSTM with forget gates,Language,IDSIA,Switzerland,2/1/99,6219,276,30000,,,
+LeNet-5,Vision,AT&T,United States of America,1/11/98,49590,60000,60000,,,
+Social and content-based classification,Recommendation,"AT&T,Bell Laboratories,Rutgers University","United States of America,United States of America,United States of America",1/7/98,1564,,45000,,,
+Sparse coding model for V1 receptive fields,Vision,"UC Davis,Cornell University","United States of America,United States of America",1/12/97,4257,,10,,,
+LSTM,Language,Technical University of Munich,Germany,15/11/97,80987,10504,1273000,,,
+Bidirectional RNN,Speech,Advanced Telecommunications Research Institute,Japan,1/11/97,7867,13000,73920,,,
+SVM for face detection,Vision,Massachusetts Institute of Technology (MIT),United States of America,17/6/97,3851,,50000,,,
+Deep Blue,Games,IBM,United States of America,1/5/97,1992,8000,,,,Unreleased
+SOM-CNN,Vision,,,1/1/97,,32015,200,100,,
+HMM Word Alignment,Language,University of Erlangen - Nuremburg,Germany,5/8/96,1099,,442316,,,
+AdaBoost.M2 Digit Recognition,Vision,AT&T,United States of America,3/7/96,12977,,9709,,,
+System 11,Vision,Carnegie Mellon University (CMU),United States of America,18/6/96,6011,6452,9050,,,
+MUSIC perceptron,Vision,,,3/6/96,,13607,27000,400,,
+LISSOM,Vision,University of Texas at Austin,United States of America,27/11/95,,432800,2000,38,,
+Support Vector Machines,Vision,"AT&T,Bell Laboratories","United States of America,United States of America",1/9/95,48968,100000000,60000,,,
+Random Decision Forests,Other,"AT&T,Bell Laboratories","United States of America,United States of America",14/8/95,4678,,60000,,,
+Iterative Bootstrapping WSD,Language,University of Pennsylvania,United States of America,26/6/95,2996,,460000000,,,
+GroupLens,Recommendation,Massachusetts Institute of Technology (MIT),United States of America,22/10/94,7733,,100000000,,,
+Predictive Coding NN,Language,Technical University of Munich,Germany,1/1/94,,206910,600000,25,,
+NeuroChess,Games,,,1/1/94,,72251,120000,,,
+Mixture of linear models,Vision,,,1/1/94,,384000,7000,,12,
+JPMAX,Vision,,,1/1/94,,4446,1500,,,
+Ceramic-MLP,Materials science,Sapienza Università di Roma,Italy,1/1/94,,1888,80,5000,,
+ANN Eye Tracker,Vision,,,29/11/93,,5620,2000,260,0.6,
+Siamese-TDNN,Vision,Bell Laboratories,United States of America,1/8/93,,744,7701,69,,
+IBM-5,Language,IBM,United States of America,15/6/93,5752,1658364,53358600,,,
+Boosting,Vision,Bell Laboratories,United States of America,30/11/92,,2578,9709,,,
+Cancer drug mechanism prediction,Medicine,National Cancer Institute,United States of America,16/10/92,,594,,,,
+Golem,Biology,Alan Turing Institute,United Kingdom of Great Britain and Northern Ireland,1/10/92,,,1612,,,
+Fuzzy NN,Speech,Indian Statistical Institute,India,1/9/92,1223,1166,436,,,
+TD-Gammon,Games,IBM,United States of America,1/5/92,1344,25000,6300000,,,
+Weight Decay,Speech,,,2/12/91,,8386,5000,300,,
+SRN-Encoded Grammatical Structures,Language,University of California San Diego,United States of America,1/9/91,1717,,177805,,,
+RAAM,Other,,,1/11/90,,1536,29,,,
+SexNet compression,Vision,,,1/10/90,,72940,90,2000,,
+SexNet classification,Vision,,,1/10/90,,1640,80,,,
+ISR network,Vision,Stanford University,United States of America,1/10/90,,,9000,,,
+Bankruptcy-NN,Other,,,17/6/90,,36,370,191400,24,
+Zip CNN,Vision,"AT&T,Bell Laboratories","United States of America,United States of America",1/12/89,10496,9760,7291,,,
+ALVINN,Driving,Carnegie Mellon University (CMU),United States of America,1/12/89,1924,36627,1200,40,,
+Truck backer-upper,Driving,Stanford University,United States of America,18/6/89,,805,,,,
+Invariant image recognition,Vision,Complutense University of Madrid,Spain,18/6/89,,,,,6,
+Time-delay neural networks,Speech,"Advanced Telecommunications Research Institute,Carnegie Mellon University (CMU)","Japan,United States of America",3/3/89,3445,,,,,
+Speaker-independent vowel classification,Speech,University of Washington,United States of America,1/1/89,,3040,4104,100,,
+Q-learning,"Robotics,Games",University of London,United Kingdom of Great Britain and Northern Ireland,1/1/89,8025,,,,,
+MLP baggage detector,Vision,Science Applications International Corporation / SAIC,United States of America,1/1/89,,,40000,2000,,
+Innervator,Mathematics,"Stanford University,California Institute of Technology","United States of America,United States of America",1/1/89,1132,10,4,,,
+Handwritten Digit Recognition System,Vision,AT&T,United States of America,1/1/89,,2578,9840,30,72,
+MLN-ASR,Speech,McGill University,Canada,1/8/88,,10000,1400,,0.1,
+Motion-Driven 3D Feature Tracking,3D modeling,Roke Manor Research,United Kingdom of Great Britain and Northern Ireland,1/7/88,19068,,1500,,,
+NetTalk (transcription),Speech,Princeton University,United States of America,6/6/87,2558,18629,1024,55,,
+NetTalk (dictionary),Speech,Princeton University,United States of America,6/6/87,2558,18629,1000,55,,
+Optimized Multi-Scale Edge Detection,Vision,Massachusetts Institute of Technology (MIT),United States of America,1/11/86,37931,,,,,
+Back-propagation,Mathematics,"University of California San Diego,Carnegie Mellon University (CMU)","United States of America,United States of America",1/10/86,25673,144,144,,,
+PDP model for serial order,Speech,University of California San Diego,United States of America,5/1/86,1502,,,,,
+Error Propagation,Other,"University of California San Diego,Carnegie Mellon University (CMU)","United States of America,United States of America",3/1/86,27322,,,,,
+Distributed representation NN,Other,Carnegie Mellon University (CMU),United States of America,1/1/86,,432,100,1500,,
+Learnability theory of language development,Language,Massachusetts Institute of Technology (MIT),United States of America,1/7/84,4730,,,,,
+Hierarchical Cognitron,Other,NHK Broadcasting Science Research Laboratories,Japan,1/4/84,,9315,5,,,
+ASE+ACE,Robotics,University of Massachusetts Amherst,United States of America,1/9/83,4296,324,500000,,2.8,
+Hopfield network,Other,California Institute of Technology,United States of America,1/4/82,23315,9900,,,,
+Kohonen network,Mathematics,Helsinki University of Technology,Finland,25/7/81,11841,4096,,,,
+Neocognitron,Vision,NHK Broadcasting Science Research Laboratories,Japan,1/4/80,5782,1140576,5,,,
+Internal functionality of visual invariants,Vision,Utrecht University,Netherlands,2/5/79,981,,,,,
+TD(0),Other,University of Essex,United Kingdom of Great Britain and Northern Ireland,1/8/77,269,,,,,
+Statistical continuous speech recognizer,Speech,Massachusetts Institute of Technology (MIT),United States of America,30/4/76,1591,,12000,,,
+Cognitron,Other,Biological Cybernetics,Japan,1/9/75,791,28800,5,20,,
+Piecewise linear model,Vision,University of Kansas,United States of America,1/11/73,,357,314,,,
+Graph-based structural reasoning,Vision,Massachusetts Institute of Technology (MIT),United States of America,1/9/70,1805,,,,,
+Decision tree adaline,Medicine,Tokyo Medical and Dental University,Japan,1/5/69,,2450,80,,,
+GLEE,Games,University of Edinburgh,United Kingdom of Great Britain and Northern Ireland,1/7/68,590,,,,,
+BOXES,Games,University of Edinburgh,United Kingdom of Great Britain and Northern Ireland,1/7/68,590,,,,,
+LTE speaker verification system,Speech,IBM,United States of America,1/11/66,,2061,417,131,,
+Heuristic Reinforcement Learning,Robotics,Purdue University,United States of America,1/10/65,,,,,3,
+Print Recognition Logic,Vision,IBM,United States of America,1/1/63,,,,,2.5,
+MADALINE I,Other,Stanford University,United States of America,1/7/62,75,,,,,
+Linear Decision Functions,Mathematics,Bell Laboratories,United States of America,1/6/62,,,500,,0.4375,
+LMS,"Other,Vision",Stanford University,United States of America,30/6/60,6329,17,6,,,
+ADALINE,Vision,Stanford University,United States of America,30/6/60,6329,17,100,,,
+Perceptron (1960),Vision,Cornell Aeronautical Laboratory,United States of America,30/3/60,394,1000,5000,,,
+Pattern recognition and reading by machine,Vision,Sandia Corporation,United States of America,1/12/59,587,2625,,,,
+Samuel Neural Checkers,Games,IBM,United States of America,1/7/59,4655,16,53000,,,
+Pandemonium (morse),Language,Massachusetts Institute of Technology (MIT),United States of America,1/2/59,1453,,,,,
+Perceptron Mark I,Other,"Cornell Aeronautical Laboratory,Cornell University","United States of America,United States of America",1/1/57,1610,1000,6,,,
+Sequence-based pattern recognition,Vision,Massachusetts Institute of Technology (MIT),United States of America,1/3/55,290,,,,,
+Self Organizing System,Other,Massachusetts Institute of Technology (MIT),United States of America,1/3/55,93,225,256,,,
+Genetic algorithm,Mathematics,Institute for Advanced Study,United States of America,2/7/54,266,,,,,
+SNARC,Robotics,Harvard University,United States of America,8/1/52,33,40,,,,
+Theseus,Robotics,Bell Laboratories,United States of America,2/7/50,0,40,40,,,
