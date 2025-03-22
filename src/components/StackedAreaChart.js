@@ -85,7 +85,7 @@ const StackedAreaChart = () => {
 
   return (
     <div className="flex flex-col max-w-[860px]">
-      <h2>AI Models Published Over the Years by Domain</h2>
+      <h2>Number of AI Models Published Over the Years by Domain</h2>
       <div className="self-center w-[300px] pt-[20px] relative flex justify-items-center items-center ml-[300px]">
         <span className="mr-[10px] whitespace-nowrap font-bold">Year Range:</span>
         <RangeSlider min={1949} max={2025} value={yearRange} onInput={onRangeChange}/>
@@ -100,6 +100,7 @@ const StackedAreaChart = () => {
         <text x={margin.left/2} y={30} textAnchor="start">Number of AI models</text>
       </svg>
       <div style={{ display: "flex", flexWrap: "wrap", marginTop: "10px" }}>
+        <div>Click on legend to filter by domain:</div>
         {Array.from(colorScale.domain()).map((domain, i) => (
           <div key={i} style={{ display: "flex", alignItems: "center", marginRight: "10px" }} 
               onClick={() => {
