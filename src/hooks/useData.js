@@ -14,7 +14,7 @@ const useData = () => {
 
   useEffect(() => {
     const fetchData = async () => {
-      const res = await csv("/notable_ai_models_clean.csv", (d) => ({
+      const res = await csv("./notable_ai_models_clean.csv", (d) => ({
         ...d,
         Country: d.Country.split(',')[0] || 'others',
         Date: parseDate(d['Publication date']), 
