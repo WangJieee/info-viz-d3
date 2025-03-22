@@ -14,6 +14,8 @@ const StackedAreaChart = () => {
   const svgRef = useRef()
   const [yearRange, setYearRange] = useState([1949, 2025])
   const [minY, maxY] = yearRange
+  const [selectedDomain, setSelectedDomain] = useState(null);
+  const [tooltip, setTooltip] = useState(null);
 
   useEffect(() => {
     if (!data) return
@@ -39,8 +41,8 @@ const StackedAreaChart = () => {
       .join("path")
       .attr("d", area)
       .attr("fill", d => colorScale(d.key))
-      .attr("opacity", 0.7);
-  }, [data, minY, maxY]);
+      .attr("opacity", d => selectedDomain === null || selectedDomain === d.key ? 0.7 : 0.2)
+  }, [data, minY, maxY, selectedDomain]);
 
   if (!data) return 'Loading...'
 
@@ -99,7 +101,10 @@ const StackedAreaChart = () => {
       </svg>
       <div style={{ display: "flex", flexWrap: "wrap", marginTop: "10px" }}>
         {Array.from(colorScale.domain()).map((domain, i) => (
-          <div key={i} style={{ display: "flex", alignItems: "center", marginRight: "10px" }}>
+          <div key={i} style={{ display: "flex", alignItems: "center", marginRight: "10px" }} 
+              onClick={() => {
+                setSelectedDomain(selectedDomain === domain ? null : domain)
+              }}>
             <div style={{ width: "12px", height: "12px", backgroundColor: colorScale(domain), marginRight: "5px" }}></div>
             <span>{domain}</span>
           </div>
