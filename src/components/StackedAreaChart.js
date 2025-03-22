@@ -99,8 +99,8 @@ const StackedAreaChart = () => {
         <text x={width-20} y={height-20} textAnchor="end">Year</text>
         <text x={margin.left/2} y={30} textAnchor="start">Number of AI models</text>
       </svg>
-      <div style={{ display: "flex", flexWrap: "wrap", marginTop: "10px" }}>
-        <div>Click on legend to filter by domain:</div>
+      <div>Click on legend to filter by domain: </div>
+      <div style={{ display: "flex", flexWrap: "wrap", marginTop: "4px" }}>
         {Array.from(colorScale.domain()).map((domain, i) => (
           <div key={i} style={{ display: "flex", alignItems: "center", marginRight: "10px" }} 
               onClick={() => {
