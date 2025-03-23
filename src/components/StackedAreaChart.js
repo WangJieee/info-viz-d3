@@ -15,7 +15,6 @@ const StackedAreaChart = () => {
   const [yearRange, setYearRange] = useState([1949, 2025])
   const [minY, maxY] = yearRange
   const [selectedDomain, setSelectedDomain] = useState(null);
-  const [tooltip, setTooltip] = useState(null);
 
   useEffect(() => {
     if (!data) return
@@ -50,7 +49,7 @@ const StackedAreaChart = () => {
   const parsedData = data.map(d => ({
     ...d,
     Date: new Date(d.Date)
-  })).filter(d => d.Date.getFullYear() > yearRange[0] && d.Date.getFullYear() < yearRange[1])
+  })).filter(d => d.Date.getFullYear() >= yearRange[0] && d.Date.getFullYear() <= yearRange[1])
 
   const domains = Array.from(new Set(parsedData.map(d => d.Domain)));
   const years = Array.from(new Set(parsedData.map(d => d.Date.getFullYear()))).sort((a, b) => a - b);
@@ -90,7 +89,7 @@ const StackedAreaChart = () => {
         <span className="mr-[10px] whitespace-nowrap font-bold">Year Range:</span>
         <RangeSlider min={1949} max={2025} value={yearRange} onInput={onRangeChange}/>
         <span className="absolute top-[40px] left-[90px]">1950</span>
-        <span className="absolute top-[40px] right-[-20px]">2024</span>
+        <span className="absolute top-[40px] right-[-20px]">2025</span>
       </div>
       <svg ref={svgRef} width={width} height={height}>
         <g className="x-axis" />
